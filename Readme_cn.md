@@ -12,7 +12,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 
 
 - [Awesome R](#awesome-)
-    - [集成开发环境](#integrated-development-environments)
+    - [Integrated Development Environments](#integrated-development-environments)
     - [语法](#syntax)
     - [数据操作](#data-manipulation)
     - [图形显示](#graphic-displays)
