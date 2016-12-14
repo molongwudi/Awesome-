@@ -4,7 +4,7 @@
 
 这里有很多非常不错的R包和工具. 该想法来自于[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
-这里可以的包的导航清单，看起来更方便 https://awesome-r.com
+这里是包的导航清单，看起来更方便 https://awesome-r.com
 
 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20"> 
 for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_2016/top_packages) CRAN downloaded packages or repos with 400+ 
