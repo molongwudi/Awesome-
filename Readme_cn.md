@@ -54,15 +54,15 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [Sublime Text + R-Box](http://github.com/randy3k/R-Box/) - 一个在Sublime 2/3中使用R语言编程的插件.
 * [TextMate + r.tmblundle](https://github.com/textmate/r.tmbundle) - TextMate 1/2的插件.
 * [StatET](http://www.walware.de/goto/statet) - 一个基于Eclipse的R语言IDE.
-* [Revolution R Enterprise](http://www.revolutionanalytics.com/get-revolution-r-enterprise) - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
-* [R Commander](http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/) - A package that provides a basic graphical user interface.
-* [IRkernel <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter.
-* [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) - A Menu driven data analysis GUI with a spreadsheet like data editor.
-* [Radiant](http://vnijs.github.io/radiant/) - A platform-independent browser-based interface for business analytics in R, based on the Shiny.
+* [Revolution R Enterprise](http://www.revolutionanalytics.com/get-revolution-r-enterprise) - 专注于大数据,大规模多处理器的功能,可以对学术用户免费提供和商业使用.
+* [R Commander](http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/) - 一个包括基本图形用户界面的R包.
+* [IRkernel <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/IRkernel/IRkernel) - Jupyter的R语言内核.
+* [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) - 一个菜单驱动的数据分析的GUI工具,类似电子表格数据编辑器.
+* [Radiant](http://vnijs.github.io/radiant/) - 一个使用R语言，独立的基于浏览器接口的业务分析平台,基于Shiny。
 * [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim中R语言插件. 
-* [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Neovim中R编程插件.
-* [JASP](https://jasp-stats.org/) - A complete package for both Bayesian and Frequentist methods, that is familiar to users of SPSS.
-* [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
+* [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Neovim中R语言插件.
+* [JASP](https://jasp-stats.org/) - 一个完整的贝叶斯和概念论相关方法的R包,和使用SPSS非常相似。
+* [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.一个包括创建,科学图像分析和统计分析的IDE.
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - Visual Studio中R开发工具.
 
 ## Syntax
