@@ -46,14 +46,14 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 - [其他Awesome列表](#other-awesome-lists)
 - [贡献](#contributing)
 
-## Integrated Development Environments
+## 集成开发环境
 *Integrated Development Environment* 
 
-* [RStudio <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
-* [Emacs + ESS](http://ess.r-project.org/) - Emacs Speaks Statistics is an add-on package for emacs text editors.
-* [Sublime Text + R-Box](http://github.com/randy3k/R-Box/) - Add-on package for Sublime Text 2/3.
-* [TextMate + r.tmblundle](https://github.com/textmate/r.tmbundle) - Add-on package for TextMate 1/2.
-* [StatET](http://www.walware.de/goto/statet) - An Eclipse based IDE for R.
+* [RStudio <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - 一个非常强大高效的图形界面开发环境，可以在Windows, Mac, 和Linux运行.
+* [Emacs + ESS](http://ess.r-project.org/) - ESS是一个emacs文本编辑器的一个统计分析的插件.
+* [Sublime Text + R-Box](http://github.com/randy3k/R-Box/) - 一个在Sublime 2/3中使用R语言编程的插件.
+* [TextMate + r.tmblundle](https://github.com/textmate/r.tmbundle) - TextMate 1/2的插件.
+* [StatET](http://www.walware.de/goto/statet) - 一个基于Eclipse的R语言IDE.
 * [Revolution R Enterprise](http://www.revolutionanalytics.com/get-revolution-r-enterprise) - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
 * [R Commander](http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/) - A package that provides a basic graphical user interface.
 * [IRkernel <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter.
