@@ -138,86 +138,86 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 ## Reproducible Research
 *Packages for literate programming.*
 
-* [knitr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://yihui.name/knitr/) - Easy dynamic report generation in R.
-* [xtable](http://cran.r-project.org/web/packages/xtable/index.html) - Export tables to LaTeX or HTML.
-* [rapport](http://rapport-package.info/#intro) - An R templating system.
-* [rmarkdown <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://rmarkdown.rstudio.com/) - Dynamic documents for R.
-* [slidify](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
-* [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
-* [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
-* [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
-* [brew](https://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. Can be combined with knitr. 
-* [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
-* [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
-* [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
+* [knitr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://yihui.name/knitr/) - R中简单的动态报表生成工具.
+* [xtable](http://cran.r-project.org/web/packages/xtable/index.html) - 将表格导出到LaTeX或者HTML.
+* [rapport](http://rapport-package.info/#intro) - 一个R模版系统.
+* [rmarkdown <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://rmarkdown.rstudio.com/) - R动态文档工具.
+* [slidify](https://github.com/ramnathv/slidify) - 创建和发布漂亮的html5展示效果.
+* [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - 使用R创建LaTeX报表的R包.
+* [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - 在LaTex和HTML中格式化统计模型.
+* [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - 从检查点快照服务器安装包.
+* [brew](https://cran.r-project.org/web/packages/brew/index.html) - 报告模板的生成框架.可以和knitr合并.
+* [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - 一个生成微软Word, PowerPoint和HTML报表的R包.
+* [bookdown](https://bookdown.org/) - 使用R Markdown编写书籍.
+* [ezknitr](https://github.com/daattali/ezknitr) - 避免使用'knitr'带来的工作目录的痛苦.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
 
-* [Web Technologies List](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
-* [shiny <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - Easy interactive web applications with R.
-* [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
-* [httr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
-* [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
-* [XML <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
-* [rvest <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/rvest) - Simple web scraping for R, using CSSSelect or XPath syntax.
-* [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) - HTTP API for R. 
-* [Rfacebook](https://github.com/pablobarbera/Rfacebook) - Access to Facebook API via R.
-* [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - R client library for the Adobe Analytics.
-* [plumber](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
+* [Web Technologies List](https://github.com/ropensci/webservices) - 关于如何使用R和网络的相关信息.
+* [shiny <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - 使用R创建简单的Web交互应用.
+* [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - 常规的网络客户端接口 (HTTP/FTP/...) .
+* [httr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) - 使用更加友好的RCurl封装.
+* [httpuv](https://github.com/rstudio/httpuv) - HTTP和WebSocket服务程序.
+* [XML <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - R中生成和解析XML的工具.
+* [rvest <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/rvest) - 简单的web信息抓取,使用CSSSelect 和 XPath 语法.
+* [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) - HTTP API.
+* [Rfacebook](https://github.com/pablobarbera/Rfacebook) - Facebook API.
+* [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - Adobe 分析服务的R语言客户端.
+* [plumber](https://github.com/trestletech/plumber) - 一个将现有的R代码转换为API的包.
 
 ## Parallel Computing
 *Packages for parallel computing.*
 
-* [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) - R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
-* [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
-* [foreach <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel.
-* [SparkR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/amplab-extras/SparkR-pkg) - R frontend for Spark.
-* [DistributedR](https://github.com/vertica/DistributedR) - A scalable high-performance platform from  HP Vertica Analytics Team.
-* [ddR](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
-* [sparklyr](http://spark.rstudio.com/) - R interface for Apache Spark from RStudio.
+* [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) - R语言高性能的并行计算平台. [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
+* [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi对MPI APIS提供了一个包装过的接口,它也提供一个交互式的R环境.
+* [foreach <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/foreach/index.html) - 使用并行来执行循环.
+* [SparkR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/amplab-extras/SparkR-pkg) - R for Spark.
+* [DistributedR](https://github.com/vertica/DistributedR) - 一个来自惠普Vertica Analytics团队的可伸缩的高性能平台.
+* [ddR](https://github.com/vertica/ddR) - 提供分布式数据结构,简化了R中的分布式计算.
+* [sparklyr](http://spark.rstudio.com/) - 来自RStudio的Spark接口.
 
 ## High Performance
 *Packages for making R faster.*
 
-* [Rcpp <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://rcpp.org/) - Rcpp provides a powerful API on top of R, make function in R extremely faster.
-* [Rcpp11](https://github.com/Rcpp11/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
-* [compiler](http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html) - speeding up your R code using the JIT 
+* [Rcpp <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://rcpp.org/) - Rcpp在R中提供了一个高效的API,使得函数更快执行.
+* [Rcpp11](https://github.com/Rcpp11/Rcpp11) - Rcpp11完全重新设计,以C++11为目标.
+* [compiler](http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html) - 使用JIT提高R代码的速度.
 
 ## Language API
 *Packages for other languages.*
 
-* [rJava](http://cran.r-project.org/web/packages/rJava/) - Low-level R to Java interface.
-* [jvmr](https://github.com/cran/jvmr) - Integration of R, Java, and Scala.
-* [rJython](http://cran.r-project.org/web/packages/rJython/index.html) - R interface to Python via Jython.
-* [rPython](http://cran.r-project.org/web/packages/rPython/index.html) - Package allowing R to call Python.
-* [runr](https://github.com/yihui/runr) - Run Julia and Bash from R.
-* [RJulia](https://github.com/armgong/RJulia) - R package Call Julia.
-* [RinRuby](https://sites.google.com/a/ddahl.org/rinruby-users/) - a Ruby library that integrates the R interpreter in Ruby.
-* [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - Read and write of MAT files together with R-to-MATLAB connectivity.
-* [RcppOctave](https://github.com/renozao/RcppOctave) - Seamless Interface to Octave and Matlab.
-* [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
-* [V8](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
-* [htmlwidgets](http://www.htmlwidgets.org/) - Bring the best of JavaScript data visualization to R.
-* [rpy2](http://rpy.sourceforge.net/) - Python interface for R.
+* [rJava](http://cran.r-project.org/web/packages/rJava/) - R语言对JAVE接口.
+* [jvmr](https://github.com/cran/jvmr) - 集成了R, Java, and Scala.
+* [rJython](http://cran.r-project.org/web/packages/rJython/index.html) - R语言对Python/Jython的接口.
+* [rPython](http://cran.r-project.org/web/packages/rPython/index.html) - 允许R调用Python.
+* [runr](https://github.com/yihui/runr) - 在R中运行Julia和Bash.
+* [RJulia](https://github.com/armgong/RJulia) - R中调用Julia.
+* [RinRuby](https://sites.google.com/a/ddahl.org/rinruby-users/) - 一个Ruby库,整合了R用Ruby解释器.
+* [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - 读写mat文件,将R和Matlab连接到一起.
+* [RcppOctave](https://github.com/renozao/RcppOctave) -Octave and Matlab的接口.
+* [RSPerl](http://www.omegahat.org/RSPerl/) - 双向接口,R中调用Perl和在Perl中调用R.
+* [V8](https://github.com/jeroenooms/V8) - 嵌入JavaScript引擎.
+* [htmlwidgets](http://www.htmlwidgets.org/) - R中把JavaScript数据可视化的最好方法.
+* [rpy2](http://rpy.sourceforge.net/) - Python对R的接口.
 
 ## Database Management
 *Packages for managing data.*
 
-* [RODBC](http://cran.r-project.org/web/packages/RODBC/) - ODBC database access for R.
-* [DBI](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
-* [elastic](https://github.com/ropensci/elastic) - Wrapper for the Elasticsearch HTTP API
-* [mongolite](https://github.com/jeroenooms/mongolite) - Streaming Mongo Client for R
-* [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R interface to the MySQL database.
-* [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - OCI based Oracle database interface for R.
-* [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R interface to the PostgreSQL database system.
-* [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) - SQLite interface for R
-* [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - Provides access to databases through the JDBC interface.
-* [rmongodb](https://github.com/mongosoup/rmongodb) - R driver for MongoDB.
-* [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
-* [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
-* [RHive](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
-* [RNeo4j](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver. 
+* [RODBC](http://cran.r-project.org/web/packages/RODBC/) - R中ODBC数据库范围.
+* [DBI](https://github.com/rstats-db/DBI) - 在R和数据库管理系统之间定义一个公共的接口.
+* [elastic](https://github.com/ropensci/elastic) - Elasticsearch HTTP API的包装器.
+* [mongolite](https://github.com/jeroenooms/mongolite) - R中Mongo客户端.
+* [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R语言的MySQL数据库接口.
+* [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - R中Oracle数据库的接口.
+* [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R语言的PostgreSQL数据库系统接口.
+* [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) - R语言SQLite数据库接口.
+* [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - 通过JDBC接口访问数据库.
+* [rmongodb](https://github.com/mongosoup/rmongodb) - R中MongoDB驱动.
+* [rredis](http://cran.r-project.org/web/packages/rredis/) - R中Redis驱动.
+* [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) -Apache Cassanda直接接口(不是JAVA)，提供了最多的基本功能.
+* [RHive](https://github.com/nexr/RHive) - 通过Apache Hive的R扩展促进分布式计算.
+* [RNeo4j](https://github.com/nicolewhite/Rneo4j) - Neo4j图形数据库驱动.
 
 ## Machine Learning
 *Packages for making R cleverer.*
