@@ -59,11 +59,11 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [IRkernel <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter.
 * [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) - A Menu driven data analysis GUI with a spreadsheet like data editor.
 * [Radiant](http://vnijs.github.io/radiant/) - A platform-independent browser-based interface for business analytics in R, based on the Shiny.
-* [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R. 
-* [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
+* [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim中R语言插件. 
+* [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Neovim中R编程插件.
 * [JASP](https://jasp-stats.org/) - A complete package for both Bayesian and Frequentist methods, that is familiar to users of SPSS.
 * [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
-* [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
+* [RTVS](http://microsoft.github.io/RTVS-docs/) - Visual Studio中R开发工具.
 
 ## Syntax
 *Packages change the way you use R.*
