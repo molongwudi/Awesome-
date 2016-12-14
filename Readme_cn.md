@@ -1,8 +1,8 @@
-# Awesome R
+# Awesome R 中文版(ZH_CN)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
+这里有很多非常不错的R包和工具. 该想法来自于[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 For better navigation, see https://awesome-r.com
 
