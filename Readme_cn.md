@@ -12,7 +12,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 
 
 - [Awesome R](#awesome-)
-    - [集成开发环境](#Integrated Development Environment)
+    - [集成开发环境](#integrated-development-environments)
     - [语法](#syntax)
     - [数据操作](#data-manipulation)
     - [图形显示](#graphic-displays)
@@ -46,7 +46,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 - [其他Awesome列表](#other-awesome-lists)
 - [贡献](#contributing)
 
-##　Integrated Development Environment
+## Integrated Development Environment
 *集成开发环境* 
 
 * [RStudio <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - 一个非常强大高效的图形界面开发环境，可以在Windows, Mac, 和Linux运行.
@@ -81,59 +81,59 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [reshape2  <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/reshape) - 灵活的数据排列,聚合处理.
 * [readr](https://github.com/hadley/readr) - 一个快速简单的读取表格数据到R中的包.
 * [haven](https://github.com/hadley/haven) - 对导入SPSS,STATA和SAS的文件进行改进.
-Improved methods to import SPSS, Stata and SAS files in R.
-* [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
-* [broom](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
-* [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
-* [jsonlite](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R.
-* [ff](http://ff.r-forge.r-project.org/) - Data structures designed to store large datasets.
-* [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A set of functions to work with dates and times.
-* [stringi <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rexamine.com/resources/stringi/) - ICU based string processing package.
-* [stringr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/stringr) - Consistent API for string processing, built on top of stringi.
-* [bigmemory](http://cran.r-project.org/web/packages/bigmemory/index.html) - Shared memory and memory-mapped matrices. The big* pacakges provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf](https://github.com/aloysius-lim/bigrf)).
-* [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
-* [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
+* [tidyr](https://github.com/hadley/tidyr) - 方便对数据进行整理、传播和收集.
+* [broom](https://github.com/dgrtwo/broom) - 将统计分析对象转换成整齐的数据框(一种数据组织和呈现的方式).
+* [rlist](https://github.com/renkun-ken/rlist) - 一个操作非规范化数据的工具箱.
+* [jsonlite](https://github.com/jeroenooms/jsonlite) - 一个快速解析JSON文件的包.
+* [ff](http://ff.r-forge.r-project.org/) - 设计用来存储大型数据集的数据结构.
+* [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - 一组日期和时间函数.
+* [stringi <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rexamine.com/resources/stringi/) - 基于ICU的字符串处理方案.
+* [stringr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/stringr) - 基于stringi之上的对字符串处理API.
+* [bigmemory](http://cran.r-project.org/web/packages/bigmemory/index.html) - 
+* [bigmemory](http://cran.r-project.org/web/packages/bigmemory/index.html) - 提供共享内存和内存映射矩阵,同时也包提供额外的工具,包括线性模型.([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) 和随机森林 ([bigrf](https://github.com/aloysius-lim/bigrf)).
+* [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - 使用不精确匹配的方式连接表数据.
+* [tidyverse](https://github.com/hadley/tidyverse) - 简单从tidyverse下载和安装包.
 
 ## Graphic Displays
 *Packages for showing data.*
 
 * [ggplot2 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics.
-* [ggfortify](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code.
-* [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
-* [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
-* [ggtree](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
-* [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
-* [lattice](http://lattice.r-forge.r-project.org/) - A powerful and elegant high-level data visualization system.
-* [corrplot](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.
-* [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
-* [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display output.
-* [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
-* [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
-* [animation](http://yihui.name/animation/) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
-* [gganimate](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
-* [misc3d](https://cran.r-project.org/web/packages/misc3d/index.html) - Powerful functions to deal with 3d plots, isosurfaces, etc.
-* [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
-* [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
+* [ggfortify](https://github.com/sinhrks/ggfortify) -一个ggplot2(流行的统计软件包)统一的接口(使用一行代码即可).A unified interface to ggplot2 popular statistical packages using one line of code.
+* [ggrepel](https://github.com/slowkow/ggrepel) - 排除重叠的文本标签.
+* [ggalt](https://github.com/hrbrmstr/ggalt) - ggplot2额外的坐标系统,几何和统计.
+* [ggtree](https://github.com/GuangchuangYu/ggtree) - 可视化和注释的系统树.
+* [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - ggplot2扩展显示例子.
+* [lattice](http://lattice.r-forge.r-project.org/) - 一个强大优雅的高级数据可视化系统.
+* [corrplot](https://github.com/taiyun/corrplot) - 图形显示相关矩阵或一般矩阵。它还包含一些矩阵重新排序算法.
+* [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - R中3D可视化系统.
+* [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - 一个使用cairo组件创建高质量显示输出的R图形包.
+* [extrafont](https://github.com/wch/extrafont) - 在R中图像中使用字体的工具.
+* [showtext](https://github.com/yixuan/showtext) - 让R图形设备显示文本的时候使用系统字体.
+* [animation](http://yihui.name/animation/) - 一个使用 [ImageMagick](http://imagemagick.org/)在R中产生动画图形的工具.
+* [gganimate](https://github.com/dgrtwo/gganimate) - 用ggplot2创建简单的动画.
+* [misc3d](https://cran.r-project.org/web/packages/misc3d/index.html) - 强大的3D绘图工具.
+* [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - 在图表中使用xkcd风格.
+* [imager](http://dahtah.github.io/imager/) - 一个基于CImg库的图像处理包.
 
 ## HTML Widgets
 *Packages for interactive visualizations.*
 
-* [d3heatmap](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3.
-* [DataTables](http://rstudio.github.io/DT/) - Displays R matrices or data frames as interactive HTML tables.
-* [DiagrammeR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
-* [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
-* [formattable](http://renkun.me/formattable/) - Formattable Data Structures.
-* [ggvis](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
-* [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
-* [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) - Enables easy creation of D3 scatterplots, line charts, and histograms.
-* [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript Network Graphs from R.
-* [scatterD3](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
-* [plotly <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ropensci/plotly) - Interactive ggplot2 and Shiny plotting with [plot.ly](https://plot.ly).
-* [rCharts <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
-* [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
-* [threejs](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
-* [timevis](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
-* [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
+* [d3heatmap](https://github.com/rstudio/d3heatmap) - 使用D3绘制互动的热图.
+* [DataTables](http://rstudio.github.io/DT/) - 将R矩阵或数据框作为交互的HTML表
+* [DiagrammeR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rich-iannone/DiagrammeR) - 在R中创建JS图表和流程图.
+* [dygraphs](https://github.com/rstudio/dygraphs) - 在R中绘制时间序列数据图形.
+* [formattable](http://renkun.me/formattable/) - 可格式化的数据结构.
+* [ggvis](https://github.com/rstudio/ggvis) - R中交互式的图形处理语法.
+* [Leaflet](http://rstudio.github.io/leaflet/) - 一个非常流行的交互式地图JavaScript组件.
+* [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) - 可以轻松创建D3散点图、折线图和直方图.
+* [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScriptR网络图.
+* [scatterD3](https://github.com/juba/scatterD3) - D3 互动散点图.
+* [plotly <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ropensci/plotly) - 使用[plot.ly](https://plot.ly)进行交互式ggplot2和Shiny绘图.
+* [rCharts <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ramnathv/rCharts) - 交互式JS绘图.
+* [rbokeh](http://hafen.github.io/rbokeh/) - [Bokeh](http://bokeh.pydata.org/en/latest/)的R接口.
+* [threejs](https://github.com/bwlewis/rthreejs) - 交互式3D散点图和地球仪.
+* [timevis](https://github.com/daattali/timevis) - 创建完全交互式的时间轴可视化图形.
+* [visNetwork](https://github.com/datastorm-open/visNetwork) - 使用vis.js类库进行网络可视化.
 
 ## Reproducible Research
 *Packages for literate programming.*
