@@ -12,7 +12,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 
 
 - [Awesome R](#awesome-)
-    - [集成开发环境](#集成开发环境)
+    - [集成开发环境](#Integrated Development Environment)
     - [语法](#syntax)
     - [数据操作](#data-manipulation)
     - [图形显示](#graphic-displays)
@@ -46,8 +46,8 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 - [其他Awesome列表](#other-awesome-lists)
 - [贡献](#contributing)
 
-##　集成开发环境
-*Integrated Development Environment* 
+##　Integrated Development Environment
+*集成开发环境* 
 
 * [RStudio <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - 一个非常强大高效的图形界面开发环境，可以在Windows, Mac, 和Linux运行.
 * [Emacs + ESS](http://ess.r-project.org/) - ESS是一个emacs文本编辑器的一个统计分析的插件.
@@ -66,21 +66,22 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - Visual Studio中R开发工具.
 
 ## Syntax
-*改变你使用R方式的包.*
+*改变你使用R方式的包*
 
-* [magrittr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/smbache/magrittr) - Let's pipe it.
-* [pipeR](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
-* [lambda.r](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R.
-* [purrr](https://github.com/hadley/purrr) - A FP package for R in the spirit of underscore.js.
+* [magrittr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/smbache/magrittr) - 一个R语言高效的管道操作包.
+* [pipeR](https://github.com/renkun-ken/pipeR) - 多泛型管道的实现.
+* [lambda.r](https://github.com/zatonovo/lambda.r) - R语言中函数式编程和简单的模式匹配.
+* [purrr](https://github.com/hadley/purrr) - 一个高级函数编程语言包.
 
 ## Data Manipulation
-*Packages for cooking data.*
+*数据处理相关的包*
 
-* [dplyr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/dplyr) - Fast data frames manipulation and database query.
-* [data.table <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
-* [reshape2  <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data.
-* [readr](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R.
-* [haven](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R.
+* [dplyr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/dplyr) - 快速数据操作和数据库查询.
+* [data.table <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/Rdatatable/data.table) - 使用短小灵活的语法操作数据.
+* [reshape2  <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/reshape) - 灵活的数据排列,聚合处理.
+* [readr](https://github.com/hadley/readr) - 一个快速简单的读取表格数据到R中的包.
+* [haven](https://github.com/hadley/haven) - 对导入SPSS,STATA和SAS的文件进行改进.
+Improved methods to import SPSS, Stata and SAS files in R.
 * [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 * [broom](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
 * [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
