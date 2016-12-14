@@ -46,7 +46,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 - [其他Awesome列表](#other-awesome-lists)
 - [贡献](#contributing)
 
-## Integrated Development Environment
+## Integrated Development Environments
 *集成开发环境* 
 
 * [RStudio <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - 一个非常强大高效的图形界面开发环境，可以在Windows, Mac, 和Linux运行.
