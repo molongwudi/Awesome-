@@ -66,7 +66,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - Visual Studio中R开发工具.
 
 ## Syntax
-*Packages change the way you use R.*
+*改变你使用R方式的包.*
 
 * [magrittr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/smbache/magrittr) - Let's pipe it.
 * [pipeR](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
