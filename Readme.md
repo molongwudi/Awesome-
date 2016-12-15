@@ -62,7 +62,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim中R语言插件. 
 * [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Neovim中R语言插件.
 * [JASP](https://jasp-stats.org/) - 一个完整的贝叶斯和概念论相关方法的R包,和使用SPSS非常相似。
-* [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.一个包括创建,科学图像分析和统计分析的IDE.
+* [Bio7](http://www.bio7.org/) - 一个包括创建,科学图像分析和统计分析的IDE.
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - Visual Studio中R开发工具.
 
 ## Syntax
@@ -89,7 +89,6 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - 一组日期和时间函数.
 * [stringi <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rexamine.com/resources/stringi/) - 基于ICU的字符串处理方案.
 * [stringr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/stringr) - 基于stringi之上的对字符串处理API.
-* [bigmemory](http://cran.r-project.org/web/packages/bigmemory/index.html) - 
 * [bigmemory](http://cran.r-project.org/web/packages/bigmemory/index.html) - 提供共享内存和内存映射矩阵,同时也包提供额外的工具,包括线性模型.([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) 和随机森林 ([bigrf](https://github.com/aloysius-lim/bigrf)).
 * [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - 使用不精确匹配的方式连接表数据.
 * [tidyverse](https://github.com/hadley/tidyverse) - 简单从tidyverse下载和安装包.
@@ -97,7 +96,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 ## Graphic Displays
 *Packages for showing data.*
 
-* [ggplot2 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics.
+* [ggplot2 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/ggplot2) - 强大的绘图统计和计算图形系统的实现.强烈推荐.
 * [ggfortify](https://github.com/sinhrks/ggfortify) -一个ggplot2(流行的统计软件包)统一的接口(使用一行代码即可).A unified interface to ggplot2 popular statistical packages using one line of code.
 * [ggrepel](https://github.com/slowkow/ggrepel) - 排除重叠的文本标签.
 * [ggalt](https://github.com/hrbrmstr/ggalt) - ggplot2额外的坐标系统,几何和统计.
@@ -294,13 +293,12 @@ in GLMs and in the Cox model
 Data
 * [relaxo](http://cran.r-project.org/web/packages/relaxo/index.html) - Relaxed Lasso
 * [rgenoud](http://cran.r-project.org/web/packages/rgenoud/index.html) - R version of GENetic Optimization Using Derivatives
-* [rgp](http://cran.r-project.org/web/packages/rgp/index.html) - R genetic programming framework
-* [Rmalschains](http://cran.r-project.org/web/packages/Rmalschains/index.html) - Continuous Optimization using Memetic Algorithms with Local
+* [rgp](http://cran.r-project.org/web/packages/rgp/index.html) - R基因编程框架.
+* [Rmalschains](http://cran.r-project.org/web/packages/Rmalschains/index.html) - 使用本地文化基因算法进行连续问题优化.[这里翻译不准].
 Search Chains (MA-LS-Chains) in R
-* [rminer](http://cran.r-project.org/web/packages/rminer/index.html) - Simpler use of data mining methods (e.g. NN and SVM) in
-classification and regression
-* [ROCR](http://cran.r-project.org/web/packages/ROCR/index.html) - Visualizing the performance of scoring classifiers
-* [RoughSets](http://cran.r-project.org/web/packages/RoughSets/index.html) - Data Analysis Using Rough Set and Fuzzy Rough Set Theories
+* [rminer](http://cran.r-project.org/web/packages/rminer/index.html) - 在分类和回归问题中简单的使用数据挖掘方法(如神经网络和支持向量机).
+* [ROCR](http://cran.r-project.org/web/packages/ROCR/index.html) - 可视化评分分类器的性能.
+* [RoughSets](http://cran.r-project.org/web/packages/RoughSets/index.html) - 使用粗糙集和模糊粗糙集理论进行数据分析.
 * [rpart](http://cran.r-project.org/web/packages/rpart/index.html) - Recursive Partitioning and Regression Trees
 * [RPMM](http://cran.r-project.org/web/packages/RPMM/index.html) - Recursively Partitioned Mixture Model
 * [RSNNS](http://cran.r-project.org/web/packages/RSNNS/index.html) - Neural Networks in R using the Stuttgart Neural Network
@@ -328,7 +326,7 @@ Angle Regression
 * [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) - 一个文本分析的R包.
 * [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - 词频分布统计模型.
 * [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - 基本自然语言处理功能.
-* [LDAvis](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
+* [LDAvis](https://github.com/cpsievert/LDAvis) - 主题模型的交互式可视化.
 * [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) - Topic modeling interface to the C code developed by by David M. Blei for Topic Modeling (Latent Dirichlet Allocation (LDA), and Correlated Topics Models (CTM)).
 * [syuzhet](https://cran.r-project.org/web/packages/syuzhet/index.html) - Extracts sentiment from text using three different sentiment dictionaries.
 * [SnowballC](https://cran.rstudio.com/web/packages/SnowballC/index.html) - Snowball stemmers based on the C libstemmer UTF-8 library.
@@ -340,9 +338,9 @@ Angle Regression
 *Packages for Bayesian Inference.*
 
 * [coda](http://cran.r-project.org/web/packages/coda/index.html) - 输出MCMC(马尔可夫链蒙特卡尔理论)的分析和诊断信息.
-* [mcmc](http://cran.r-project.org/web/packages/mcmc/index.html) - Markov Chain Monte Carlo(MCMC).
-* [MCMCpack](http://mcmcpack.berkeley.edu/) - Markov chain Monte Carlo (MCMC).
-* [R2WinBUGS](http://cran.r-project.org/web/packages/R2WinBUGS/index.html) - Running WinBUGS and OpenBUGS from R / S-PLUS.
+* [mcmc](http://cran.r-project.org/web/packages/mcmc/index.html) - 马尔可夫链蒙特卡尔理论(MCMC).
+* [MCMCpack](http://mcmcpack.berkeley.edu/) - 马尔可夫链蒙特卡尔理论 (MCMC).
+* [R2WinBUGS](http://cran.r-project.org/web/packages/R2WinBUGS/index.html) - 在在R/S-PLUS中打开WinBUGS 和 OpenBUGS.
 * [BRugs](http://cran.r-project.org/web/packages/BRugs/index.html) - OpenBUGS MCMC 软件的R接口.
 * [rjags](http://cran.r-project.org/web/packages/rjags/index.html) - JAGS MCMC组件的R接口.
 * [rstan <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://mc-stan.org/interfaces/rstan.html) - Stan MCMC软件的R接口.
