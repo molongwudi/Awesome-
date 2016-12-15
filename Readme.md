@@ -379,12 +379,12 @@ Angle Regression
 *Packages to construct, analyze and visualize network data.*
 
 * [Network Analysis List](https://github.com/briatte/awesome-network-analysis) - 网络分析相关资源.
-* [igraph <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://igraph.org/r/) - A collection of network analysis tools.
-* [network](https://cran.r-project.org/web/packages/network/index.html) - Basic tools to manipulate relational data in R.
-* [sna](https://cran.r-project.org/web/packages/sna/index.html) - Basic network measures and visualization tools.
-* [netdiffuseR](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
-* [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
-* [ndtv](https://cran.r-project.org/web/packages/ndtv/) - Tools to construct animated visualizations of dynamic network data in various formats.
+* [igraph <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://igraph.org/r/) - 一个网络分析工具集合.
+* [network](https://cran.r-project.org/web/packages/network/index.html) - 一个操作数据关系的基本工具.
+* [sna](https://cran.r-project.org/web/packages/sna/index.html) - 基本的网络测量和可视化工具.
+* [netdiffuseR](https://github.com/USCCANA/netdiffuseR) - 网络扩散的分析工具.
+* [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - 支持动态和时序网络.
+* [ndtv](https://cran.r-project.org/web/packages/ndtv/) - 构建动画的可视化动态网络工具,支持多种数据格式.
 * [statnet](http://statnet.org/) - 大量网络数据的分析,仿真和可视化工具.
 * [ergm](https://cran.r-project.org/web/packages/ergm/index.html) - 指数随机图模型.
 * [latentnet](https://cran.r-project.org/web/packages/latentnet/index.html) - Latent position and cluster models for network objects.
@@ -395,17 +395,17 @@ Angle Regression
 ## R Development
 *Packages for packages.*
 
-* [Package Development List](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
-* [devtools <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
-* [testthat <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/testthat) - An R package to make testing fun.
+* [Package Development List](https://github.com/ropensci/PackageDevelopment) - 提高整体开发能力的包.
+* [devtools <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/devtools) - 然R开发人员的生活变得更简单的工具.
+* [testthat <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/testthat) - 一个R包测试工具.
 * [R6 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
 * [pryr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/pryr) - Make it easier to understand what's going on in R.
-* [roxygen <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
+* [roxygen <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/klutometis/roxygen) - 在函数定义中描述说明.
 * [lineprof](https://github.com/hadley/lineprof) - R中在线分析结果可视化.
 * [packrat](https://github.com/rstudio/packrat) - 让R项目更加简单,便携和可重构的工具.
-* [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
-* [import](https://github.com/smbache/import/) - An import mechanism for R.
-* [modules](https://github.com/klmr/modules) - An alternative (Python style) module system for R.
+* [installr](https://github.com/talgalili/installr/) - R中按照软件的相关函数(Windows平台).
+* [import](https://github.com/smbache/import/) - R的导入机制.
+* [modules](https://github.com/klmr/modules) - 另外一个R模块系统(Python风格).
 * [Rocker <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rocker-org) - R configurations for [Docker](https://www.docker.com/).
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) - RStudio插件列表. 
 * [drat](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on 使用R在GitHub或其他平台创建和使用仓储.
@@ -437,12 +437,12 @@ Angle Regression
 * [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
 * [fastR](https://bitbucket.org/allr/fastr/wiki/Home) - FastR is an implementation of the R Language in Java atop Truffle and Graal.
 * [incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM with Lisp spirit.
-* [pqR](http://www.pqr-project.org/) - a "pretty quick" implementation of R
-* [renjin](http://www.renjin.org/) - a JVM-based interpreter for R.
+* [pqR](http://www.pqr-project.org/) - 一个更快的R实现.
+* [renjin](http://www.renjin.org/) - 一个基于JVM的R编译器.
 * [rho](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
-* [riposte](https://github.com/jtalbot/riposte) - a fast interpreter and JIT for R.
-* [RRO](https://mran.revolutionanalytics.com/open/) - Revolution R Open.
-* [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
+* [riposte](https://github.com/jtalbot/riposte) - 一个R快速编译和JIT工具.
+* [RRO](https://mran.revolutionanalytics.com/open/) - R革命性开放平台(Microsoft R Open).
+* [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - R的TIBCO企业运行环境.
 
 
 ## Learning R
@@ -521,19 +521,19 @@ Angle Regression
 ## Lists
 *Great resources for learning domain knowledge.*
 
-* [Books](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
-* [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning.
-* [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
-* [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
-* [Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
-* [Open Data](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
-* [Posts](https://github.com/qinwf/awesome-R/blob/master/posts.md) - Great R blog posts or Rticles.
-* [Package Development](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
-* [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
-* [RStartHere](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
-* [RStudio Addins](https://github.com/daattali/addinslist) - List of RStudio addins.
-* [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
-* [Web Technologies](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+* [Books](https://github.com/RomanTsegelskyi/rbooks) - R书籍清单.
+* [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - R数据科学、神经网络和机器学习的指南清单.
+* [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - ggplot2扩展案例.
+* [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - R. @Chinese中NLP 相关资源
+* [Network Analysis](https://github.com/briatte/awesome-network-analysis) - 网络分析相关资源.
+* [Open Data](https://github.com/ropensci/opendata) - 使用R获取,转换,操作,创建和贡献数据.
+* [Posts](https://github.com/qinwf/awesome-R/blob/master/posts.md) - 创建R博客或者文章.
+* [Package Development](https://github.com/ropensci/PackageDevelopment) - 提高包开发的资源工具.
+* [R Project Conferences](https://www.r-project.org/conferences.html) -  使用R的相关信息,DSC会议.
+* [RStartHere](https://github.com/rstudio/RStartHere) - 一些非常有用的R包指南.
+* [RStudio Addins](https://github.com/daattali/addinslist) - RStudio插件清单.
+* [Topic Models](https://github.com/trinker/topicmodels_learning) - 主题模型的学习和R相关资源.
+* [Web Technologies](https://github.com/ropensci/webservices) - 如何使用R和万维网的信息.
 
 # Other Awesome Lists
 
@@ -541,6 +541,5 @@ Angle Regression
 * [lists](https://github.com/jnv/lists)
 
 # Contributing
-Your contributions are always welcome!
-
+一直欢迎大家的贡献!我的邮件:asxinyu@qq.com
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
