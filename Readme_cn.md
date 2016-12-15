@@ -287,7 +287,7 @@ in GLMs and in the Cox model
 * [quantregForest](http://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest: Quantile Regression Forests
 * [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - 随机森林: Breiman and Cutler's random forests for classification and regression.
 * [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC).
-* [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R.
+* [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - 图形界面式的数据挖掘工具.
 * [rda](http://cran.r-project.org/web/packages/rda/index.html) - Shrunken Centroids Regularized Discriminant Analysis
 * [rdetools](http://cran.r-project.org/web/packages/rdetools/index.html) - Relevant Dimension Estimation (RDE) in Feature Spaces
 * [REEMtree](http://cran.r-project.org/web/packages/REEMtree/index.html) - Regression Trees with Random Effects for Longitudinal (Panel)
@@ -306,7 +306,7 @@ classification and regression
 * [RSNNS](http://cran.r-project.org/web/packages/RSNNS/index.html) - Neural Networks in R using the Stuttgart Neural Network
 Simulator (SNNS)
 * [Rsomoclu](https://cran.r-project.org/web/packages/Rsomoclu/index.html) - Parallel implementation of self-organizing maps.
-* [RWeka](http://cran.r-project.org/web/packages/RWeka/index.html) - R/Weka interface
+* [RWeka](http://cran.r-project.org/web/packages/RWeka/index.html) - Weka的R接口(Weka是基于JAVA环境下开源的机器学习以及数据挖掘软件).
 * [RXshrink](http://cran.r-project.org/web/packages/RXshrink/index.html) - RXshrink: Maximum Likelihood Shrinkage via Generalized Ridge or Least
 Angle Regression
 * [sda](http://cran.r-project.org/web/packages/sda/index.html) - Shrinkage Discriminant Analysis and CAT Score Variable Selection
@@ -351,8 +351,8 @@ Angle Regression
 *Packages for Optimization.*
 
 * [minqa](https://cran.rstudio.com/web/packages/minqa/index.html) - Derivative-free optimization algorithms by quadratic approximation.
-* [nloptr](https://cran.rstudio.com/web/packages/nloptr/index.html) - NLopt is a free/open-source library for nonlinear optimization.
-* [lpSolve](https://cran.rstudio.com/web/packages/lpSolve/index.html) - Interface to `Lp_solve` to Solve Linear/Integer Programs.
+* [nloptr](https://cran.rstudio.com/web/packages/nloptr/index.html) - 一个免费开源的非线性最优化程序包.
+* [lpSolve](https://cran.rstudio.com/web/packages/lpSolve/index.html) - `Lp_solve`解决线性和整形问题的R接口.
 
 ## Finance
 *Packages for dealing with money.*
@@ -402,7 +402,7 @@ Angle Regression
 * [pryr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/pryr) - Make it easier to understand what's going on in R.
 * [roxygen <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
 * [lineprof](https://github.com/hadley/lineprof) - R中在线分析结果可视化.
-* [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
+* [packrat](https://github.com/rstudio/packrat) - 让R项目更加简单,便携和可重构的工具.
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 * [import](https://github.com/smbache/import/) - An import mechanism for R.
 * [modules](https://github.com/klmr/modules) - An alternative (Python style) module system for R.
@@ -448,56 +448,56 @@ Angle Regression
 ## Learning R
 *Packages for Learning R.*
 
-* [swirl](http://swirlstats.com/) - An interactive R tutorial directly in your R console.
-* [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning.
+* [swirl](http://swirlstats.com/) - 一个在R控制台中交互式学习指南.
+* [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - 一个数据科学,神经网络,和机器学习的指南.
 
 # Resources
 
-Where to discover new R-esources.
+发现新的R资源的地方.
 
 ## Websites
 
-* [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
-* [R Bloggers](http://www.r-bloggers.com/) - There are people scattered across the Web who blog about R. This is simply an aggregator of many of those feeds.
-* [DataCamp](https://www.datacamp.com/) - Learn R data analytics online.
-* [Quick-R](http://www.statmethods.net/) - An excellent quick reference.
-* [Advanced R <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://adv-r.had.co.nz/) - An online version of the Advanced R book.
-* [Efficient R Programming](https://csgillespie.github.io/efficientR/) - An online home of the O’Reilly book: Efficient R Programming.
-* [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
-* [The R Programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - A collaborative handbook for R. 
-* [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
-* [R Cookbook](http://www.cookbook-r.com/) - A problem-oriented website that supports the [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
-* [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
-* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives with RDocumentation.
+* [R-project](http://www.r-project.org/) - R 项目的官方网站.
+* [R Bloggers](http://www.r-bloggers.com/) - R语言的一个综合性博客网站.
+* [DataCamp](https://www.datacamp.com/) - 在线学习R数据分析.
+* [Quick-R](http://www.statmethods.net/) - 一个非常好的快速参考手册.
+* [Advanced R <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://adv-r.had.co.nz/) - 书籍高级R编程的在线版.
+* [Efficient R Programming](https://csgillespie.github.io/efficientR/) - 书籍"Efficient R Programming"的在线主页.
+* [CRAN Task Views](http://cran.r-project.org/web/views/) - CRAN包的任务列表.
+* [The R Programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - 一个R协作手册 
+* [R-users](https://www.r-users.com/) - R语言的求职板块.
+* [R Cookbook](http://www.cookbook-r.com/) - 一个R问答网站,由[R Graphics Cookbook]进行支持(http://shop.oreilly.com/product/0636920023135.do).
+* [tryR](http://tryr.codeschool.com/) - 快速开始使用R.
+* [RDocumentation](https://www.rdocumentation.org/) - 使用RDocumentation搜索所有的CRAN, Bioconductor, Github包和文档.
 
 ## Books
 
-* [R Books List](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
-* [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) - It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
-* [Free Books](https://cran.r-project.org/other-docs.html) - CRAN Contributed Documentation in many languages.
-* [R Cookbook](http://shop.oreilly.com/product/9780596809164.do) - A quick and simple introduction to conducting many common statistical tasks with R.
-* Books written as part of the Johns Hopkins Data Science Specialization:
-  * [Exploratory Data Analysis with R](https://leanpub.com/exdata) - Basic analytical skills for all sorts of data in R.
-  * [R Programming for Data Science](https://leanpub.com/rprogramming) - More advanced data analysis that relies on R programming.
-  * [Report Writing for Data Science in R](https://leanpub.com/reportwriting) - R-based methods for reproducible research and report generation.
-* [R Packages](http://r-pkgs.had.co.nz/) - A book (in paper and website formats) on writing R packages.
-* [R in Action](http://www.manning.com/kabacoff2/) - This book aims at all levels of users, with sections for beginning, intermediate and advanced R ranging from "Exploring R data structures" to running regressions and conducting factor analyses.
+* [R Books List](https://github.com/RomanTsegelskyi/rbooks) - R相关书籍清单.
+* [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) - 一个很好的资源,可以系统地学习基础类型的对象,控制语句,变量的范围,以及调试等.
+* [Free Books](https://cran.r-project.org/other-docs.html) - CRAN贡献的多种语言文档. Contributed Documentation in many languages.
+* [R Cookbook](http://shop.oreilly.com/product/9780596809164.do) - 快速简单的介绍R及相关常见的统计任务.
+* Johns Hopkins编写的数据科学专业的一部分教程:
+  * [Exploratory Data Analysis with R](https://leanpub.com/exdata) - 基本的各种数据分析技能.
+  * [R Programming for Data Science](https://leanpub.com/rprogramming) - 依赖于R的一些高级数据分析.
+  * [Report Writing for Data Science in R](https://leanpub.com/reportwriting) - R语言的报表生成和可重用组件研究.
+* [R Packages](http://r-pkgs.had.co.nz/) - 一个用R包编写的书籍 (有论文和网站2钟格式).
+* [R in Action](http://www.manning.com/kabacoff2/) - 一本旨在帮助所有级别R用户的书籍.
 * [Use R!](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as Bayesian networks, ggplot2 and Rcpp.
-* [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - An excelllent resource for users already familiar with SAS or SPSS.
-* [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - A very good introductory text on R, also covers some advanced topics.
+* [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - 一个对已经熟悉SAS和SPASS用户的资源库.
+* [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - 一个很好的介绍R的文章,也涵盖了一些高级主题.
 * [Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/) - A simplified and "operational" version of *The Elements of Statistical Learning*. Free softcopy provided by its authors.
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns gives insight into R's ins and outs along with its quirks!
 * [R for Data Science](http://r4ds.had.co.nz/) - Free book from RStudio developers with emphasis on data science workflow.
 
 ## Podcasts
 
-* [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) - The Data Science Podcast. 
+* [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) - 数据科学博客 
   * [@Roger Peng](https://twitter.com/rdpeng) and [@Hilary Parker](https://twitter.com/hspter).
-* [R World News](http://www.rworld.news/blog/) - R World News helps you keep up with happenings within the R community.   
+* [R World News](http://www.rworld.news/blog/) - R行业的社区新闻,可以让你与时俱进.   
   * [@Bob Rudis](https://twitter.com/hrbrmstr) and [@Jay Jacobs](https://twitter.com/jayjacobs).
-* [The R-Podcast](https://r-podcast.org/) - Giving practical advice on how to use R.
+* [The R-Podcast](https://r-podcast.org/) - 使用R的一些实践建议.
   * [@Eric Nantz](https://r-podcast.org/stories/contact.html).
-* [R Talk](http://rtalk.org) - News and discussions of statistical software and language R. 
+* [R Talk](http://rtalk.org) - 关于R语言和统计软件的新闻和讨论. 
   * [@Oliver Keyes](https://twitter.com/quominus), [@Jasmine Dumas](https://twitter.com/jasdumas), [@Ted Hart](https://twitter.com/emhrt_) and [@Mikhail Popov](https://twitter.com/bearloga).
 
 ## Reference Cards
