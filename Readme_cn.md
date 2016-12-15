@@ -222,61 +222,53 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 ## Machine Learning
 *Packages for making R cleverer.*
 
-* [AnomalyDetection <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/twitter/AnomalyDetection) - AnomalyDetection R package from Twitter.
-* [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression.
-* [arules](http://cran.r-project.org/web/packages/arules/index.html) - Mining Association Rules and Frequent Itemsets
-* [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - Big Random Forests: Classification and Regression Forests for
-Large Data Sets
-* [bigRR](http://cran.r-project.org/web/packages/bigRR/index.html) - Generalized Ridge Regression (with special advantage for p >> n
-cases)
-* [bmrm](http://cran.r-project.org/web/packages/bmrm/index.html) - Bundle Methods for Regularized Risk Minimization Package
-* [Boruta](http://cran.r-project.org/web/packages/Boruta/index.html) - A wrapper algorithm for all-relevant feature selection
-* [BreakoutDetection](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.
-* [bst](http://cran.r-project.org/web/packages/bst/index.html) - Gradient Boosting
-* [CausalImpact](https://github.com/google/CausalImpact) - Causal inference using Bayesian structural time-series models.
-* [C50](http://cran.r-project.org/web/packages/C50/index.html) - C5.0 Decision Trees and Rule-Based Models
-* [caret <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/caret/index.html) - Classification and Regression Training
+* [AnomalyDetection <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/twitter/AnomalyDetection) - 来自Twitter的AnomalyDetection R包.
+* [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - 半参数添加风险回归的正则化.
+* [arules](http://cran.r-project.org/web/packages/arules/index.html) - 挖掘关联规则和频繁项集.
+* [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - 大随机森林:大型数据集的分类和回归森林.
+* [bigRR](http://cran.r-project.org/web/packages/bigRR/index.html) - 广义回归(特殊是在p >> n情况下).
+* [bmrm](http://cran.r-project.org/web/packages/bmrm/index.html) - 风险最小化方案的正规化方法.
+* [Boruta](http://cran.r-project.org/web/packages/Boruta/index.html) - 所有相关的特征选择算法的一个封装
+* [BreakoutDetection](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.[暂时不明真相]
+* [bst](http://cran.r-project.org/web/packages/bst/index.html) - 梯度增加.
+* [CausalImpact](https://github.com/google/CausalImpact) - 利用贝叶斯时间序列结构模型进行因果推断.
+* [C50](http://cran.r-project.org/web/packages/C50/index.html) - C5.0决策树和基于规则的模型.
+* [caret <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/caret/index.html) - 分类和回归训练.
 * [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
-* [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - Classification, regression, feature evaluation and ordinal
-evaluation
-* [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - Cox models by likelihood based boosting for a single survival
-endpoint or competing risks
-* [Cubist](http://cran.r-project.org/web/packages/Cubist/index.html) - Rule- and Instance-Based Regression Modeling
-* [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - Misc Functions of the Department of Statistics (e1071), TU Wien
-* [earth](http://cran.r-project.org/web/packages/earth/index.html) - Multivariate Adaptive Regression Spline Models
-* [elasticnet](http://cran.r-project.org/web/packages/elasticnet/index.html) - Elastic-Net for Sparse Estimation and Sparse PCA
-* [ElemStatLearn](http://cran.r-project.org/web/packages/ElemStatLearn/index.html) - Data sets, functions and examples from the book: "The Elements
-of Statistical Learning, Data Mining, Inference, and
-Prediction" by Trevor Hastie, Robert Tibshirani and Jerome
-Friedman
-* [evtree](http://cran.r-project.org/web/packages/evtree/index.html) - Evolutionary Learning of Globally Optimal Trees
-* [forecast](http://cran.r-project.org/web/packages/forecast/index.html) - Timeseries forecasting using ARIMA, ETS, STLM, TBATS, and neural network models
-* [forecastHybrid](http://cran.r-project.org/web/packages/forecastHybrid/index.html) - Automatic ensemble and cross validation of ARIMA, ETS, STLM, TBATS, and neural network models from the "forecast" package
-* [FSelector](https://cran.r-project.org/web/packages/FSelector/index.html) - A feature selection framework, based on subset-search or feature ranking approches. 
-* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - Fuzzy Rule-based Systems for Classification and Regression Tasks
-* [GAMBoost](http://cran.r-project.org/web/packages/GAMBoost/index.html) - Generalized linear and additive models by likelihood based
-boosting
-* [gamboostLSS](http://cran.r-project.org/web/packages/gamboostLSS/index.html) - Boosting Methods for GAMLSS
-* [gbm](http://cran.r-project.org/web/packages/gbm/index.html) - Generalized Boosted Regression Models
-* [glmnet <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/glmnet/index.html) - Lasso and elastic-net regularized generalized linear models
+* [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - 分类、回归、特征评价和排序.
+* [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - Cox models by likelihood based boosting for a single survival endpoint or competing risks.
+* [Cubist](http://cran.r-project.org/web/packages/Cubist/index.html) - 规则和基于实例的回归建模
+* [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - Misc统计函数 (e1071),主要功能有类别分析、傅里叶变换,模糊聚类,支持向量机,最短路径计算,朴素贝叶斯分类器等等.
+* [earth](http://cran.r-project.org/web/packages/earth/index.html) - 多元自适应回归模型.
+* [elasticnet](http://cran.r-project.org/web/packages/elasticnet/index.html) - 稀疏估计和稀疏主成分分析.
+* [ElemStatLearn](http://cran.r-project.org/web/packages/ElemStatLearn/index.html) - 书籍"The Elements of Statistical Learning, Data Mining, Inference, and Prediction"中的数据集,函数和例子.
+* [evtree](http://cran.r-project.org/web/packages/evtree/index.html) - 全局最优树的进化学习.
+* [forecast](http://cran.r-project.org/web/packages/forecast/index.html) - 使用ARIMA, ETS, STLM, TBATS,和神经网络进行时间序列预测.
+* [forecastHybrid](http://cran.r-project.org/web/packages/forecastHybrid/index.html) - 使用"forecast"包对ARIMA, ETS, STLM, TBATS,和神经网络模型进行交叉检验.
+* [FSelector](https://cran.r-project.org/web/packages/FSelector/index.html) - 一个基于subset-search或特性排名方法的特征选择框架.
+* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - 使用模糊规则系统处理分类和回归的任务.
+* [GAMBoost](http://cran.r-project.org/web/packages/GAMBoost/index.html) -　　基于广义线性和加法模型.
+* [gamboostLSS](http://cran.r-project.org/web/packages/gamboostLSS/index.html) - GAMLSS方法的改善.
+* [gbm](http://cran.r-project.org/web/packages/gbm/index.html) - 改善广义线性模型.
+* [glmnet <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/glmnet/index.html) - Lasso 和 elastic-net正规化广义线性模型.
 * [glmpath](http://cran.r-project.org/web/packages/glmpath/index.html) - L1 Regularization Path for Generalized Linear Models and Cox
 Proportional Hazards Model
-* [GMMBoost](http://cran.r-project.org/web/packages/GMMBoost/index.html) - Likelihood-based Boosting for Generalized mixed models
+* [GMMBoost](http://cran.r-project.org/web/packages/GMMBoost/index.html) - 广义混合模型.
 * [grplasso](http://cran.r-project.org/web/packages/grplasso/index.html) - Fitting user specified models with Group Lasso penalty
 * [grpreg](http://cran.r-project.org/web/packages/grpreg/index.html) - Regularization paths for regression models with grouped
-covariates
+covariates.
 * [h2o <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/h2o/index.html) - Deeplearning, Random forests, GBM, KMeans, PCA, GLM
-* [hda](http://cran.r-project.org/web/packages/hda/index.html) - Heteroscedastic Discriminant Analysis
-* [ipred](http://cran.r-project.org/web/packages/ipred/index.html) - Improved Predictors
-* [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) - kernlab: Kernel-based Machine Learning Lab
-* [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - Classification and visualization
-* [kohonen](http://cran.r-project.org/web/packages/kohonen/) - Supervised and Unsupervised Self-Organising Maps.
+* [hda](http://cran.r-project.org/web/packages/hda/index.html) - 异方差判别分析.
+* [ipred](http://cran.r-project.org/web/packages/ipred/index.html) - 预测器改进.
+* [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) - kernlab: 基于内核学习的机器实验室.
+* [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - 分类和可视化.
+* [kohonen](http://cran.r-project.org/web/packages/kohonen/) - 监督和非监督自组织映射.
 * [lars](http://cran.r-project.org/web/packages/lars/index.html) - Least Angle Regression, Lasso and Forward Stagewise
 * [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - L1 constrained estimation aka ‘lasso’
-* [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - Linear Predictive Models Based On The Liblinear C/C++ Library
+* [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - 基于C/C++库的线性预测模型.
 * [lme4 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/lme4/lme4) - Mixed-effects models 
-* [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - Logic Regression
-* [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - Mapping, pruning, and graphing tree models
+* [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - 逻辑回归模型.
+* [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - 映射、修剪和图形树模型.
 * [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - Model-Based Boosting
 * [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 * [mvpart](http://cran.r-project.org/web/packages/mvpart/index.html) - Multivariate partitioning
@@ -285,15 +277,15 @@ covariates
 models
 * [nnet](http://cran.r-project.org/web/packages/nnet/index.html) - eed-forward Neural Networks and Multinomial Log-Linear Models
 * [oblique.tree](http://cran.r-project.org/web/packages/oblique.tree/index.html) - Oblique Trees for Classification Data
-* [pamr](http://cran.r-project.org/web/packages/pamr/index.html) - Pam: prediction analysis for microarrays
+* [pamr](http://cran.r-project.org/web/packages/pamr/index.html) - Pam: 小矩阵预测分析.
 * [party](http://cran.r-project.org/web/packages/party/index.html) - A Laboratory for Recursive Partytioning
 * [partykit](http://cran.r-project.org/web/packages/partykit/index.html) - A Toolkit for Recursive Partytioning
 * [penalized](http://cran.r-project.org/web/packages/penalized/index.html) - L1 (lasso and fused lasso) and L2 (ridge) penalized estimation
 in GLMs and in the Cox model
 * [penalizedLDA](http://cran.r-project.org/web/packages/penalizedLDA/index.html) - Penalized classification using Fisher's linear discriminant
-* [penalizedSVM](http://cran.r-project.org/web/packages/penalizedSVM/index.html) - Feature Selection SVM using penalty functions
+* [penalizedSVM](http://cran.r-project.org/web/packages/penalizedSVM/index.html) - 使用惩罚函数的特征选择支持向量机.
 * [quantregForest](http://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest: Quantile Regression Forests
-* [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
+* [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - 随机森林: Breiman and Cutler's random forests for classification and regression.
 * [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC).
 * [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R.
 * [rda](http://cran.r-project.org/web/packages/rda/index.html) - Shrunken Centroids Regularized Discriminant Analysis
@@ -322,8 +314,8 @@ Angle Regression
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 * [svmpath](http://cran.r-project.org/web/packages/svmpath/index.html) - svmpath: the SVM Path algorithm
 * [tgp](http://cran.r-project.org/web/packages/tgp/index.html) - Bayesian treed Gaussian process models
-* [tree](http://cran.r-project.org/web/packages/tree/index.html) - Classification and regression trees
-* [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) - Variable selection using random forests
+* [tree](http://cran.r-project.org/web/packages/tree/index.html) - 分类和回归树.
+* [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) - 使用随机森林进行变量选择.
 * [xgboost <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/tqchen/xgboost/tree/master/R-package) - eXtreme Gradient Boosting Tree model, well known for its speed and performance.
 
 ## Natural Language Processing
