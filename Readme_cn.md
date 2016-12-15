@@ -321,30 +321,31 @@ Angle Regression
 ## Natural Language Processing
 *Packages for Natural Language Processing.*
 
-* [text2vec](https://github.com/dselivanov/text2vec) - Fast Text Mining Framework for Vectorization and Word Embeddings.
-* [tm](http://cran.r-project.org/web/packages/tm/index.html) - A comprehensive text mining framework for R.
-* [openNLP](http://cran.r-project.org/web/packages/openNLP/index.html) - Apache OpenNLP Tools Interface.
-* [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) - An R Package for Text Analysis.
-* [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - Statistical models for word frequency distributions.
-* [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
+* [text2vec](https://github.com/dselivanov/text2vec) - 一个快速文本挖掘框架。
+ Fast Text Mining Framework for Vectorization and Word Embeddings.
+* [tm](http://cran.r-project.org/web/packages/tm/index.html) - 一个全面的文本挖掘框架.
+* [openNLP](http://cran.r-project.org/web/packages/openNLP/index.html) - Apache OpenNLP工具接口.
+* [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) - 一个文本分析的R包.
+* [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - 词频分布统计模型.
+* [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - 基本自然语言处理功能.
 * [LDAvis](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
 * [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) - Topic modeling interface to the C code developed by by David M. Blei for Topic Modeling (Latent Dirichlet Allocation (LDA), and Correlated Topics Models (CTM)).
 * [syuzhet](https://cran.r-project.org/web/packages/syuzhet/index.html) - Extracts sentiment from text using three different sentiment dictionaries.
 * [SnowballC](https://cran.rstudio.com/web/packages/SnowballC/index.html) - Snowball stemmers based on the C libstemmer UTF-8 library.
-* [quanteda](https://github.com/kbenoit/quanteda) - R functions for Quantitative Analysis of Textual Data.
-* [Topic Models Resources](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+* [quanteda](https://github.com/kbenoit/quanteda) - 文本数据的定量分析.
+* [Topic Models Resources](https://github.com/trinker/topicmodels_learning) - 主题模型的学习和R相关资源.
 * [NLP for <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 
 ## Bayesian
 *Packages for Bayesian Inference.*
 
-* [coda](http://cran.r-project.org/web/packages/coda/index.html) - Output analysis and diagnostics for MCMC.
-* [mcmc](http://cran.r-project.org/web/packages/mcmc/index.html) - Markov Chain Monte Carlo.
-* [MCMCpack](http://mcmcpack.berkeley.edu/) - Markov chain Monte Carlo (MCMC) Package.
+* [coda](http://cran.r-project.org/web/packages/coda/index.html) - 输出MCMC(马尔可夫链蒙特卡尔理论)的分析和诊断信息.
+* [mcmc](http://cran.r-project.org/web/packages/mcmc/index.html) - Markov Chain Monte Carlo(MCMC).
+* [MCMCpack](http://mcmcpack.berkeley.edu/) - Markov chain Monte Carlo (MCMC).
 * [R2WinBUGS](http://cran.r-project.org/web/packages/R2WinBUGS/index.html) - Running WinBUGS and OpenBUGS from R / S-PLUS.
-* [BRugs](http://cran.r-project.org/web/packages/BRugs/index.html) - R interface to the OpenBUGS MCMC software.
-* [rjags](http://cran.r-project.org/web/packages/rjags/index.html) - R interface to the JAGS MCMC library.
-* [rstan <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://mc-stan.org/interfaces/rstan.html) - R interface to the Stan MCMC software.
+* [BRugs](http://cran.r-project.org/web/packages/BRugs/index.html) - OpenBUGS MCMC 软件的R接口.
+* [rjags](http://cran.r-project.org/web/packages/rjags/index.html) - JAGS MCMC组件的R接口.
+* [rstan <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://mc-stan.org/interfaces/rstan.html) - Stan MCMC软件的R接口.
 
 ## Optimization
 *Packages for Optimization.*
@@ -356,40 +357,40 @@ Angle Regression
 ## Finance
 *Packages for dealing with money.*
 
-* [quantmod <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.quantmod.com/) - Quantitative Financial Modelling & Trading Framework for R.
-* [TTR](http://cran.r-project.org/web/packages/TTR/index.html) - Functions and data to construct technical trading rules with R.
-* [PerformanceAnalytics](http://cran.r-project.org/web/packages/PerformanceAnalytics/index.html) - Econometric tools for performance and risk analysis.
+* [quantmod <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.quantmod.com/) - 定量金融模型和交易框架.
+* [TTR](http://cran.r-project.org/web/packages/TTR/index.html) - 技术交易规相关的数据和功能函数.
+* [PerformanceAnalytics](http://cran.r-project.org/web/packages/PerformanceAnalytics/index.html) - 计量经济学性能和风险分析工具.
 * [zoo <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/zoo/index.html) - S3 Infrastructure for Regular and Irregular Time Series.
-* [xts](http://cran.r-project.org/web/packages/xts/index.html) - eXtensible Time Series.
-* [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
-* [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
+* [xts](http://cran.r-project.org/web/packages/xts/index.html) - 可扩展的时间序列.
+* [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - 金融时间序列分析和计算.
+* [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - 金融资产分析和建模.
 
 ## Bioinformatics
 *Packages for processing biological datasets.*
 
-* [Bioconductor <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.bioconductor.org/) - Tools for the analysis and comprehension of high-throughput genomic data.
-* [genetics](http://cran.r-project.org/web/packages/genetics/index.html) - Classes and methods for handling genetic data.
-* [gap](http://cran.r-project.org/web/packages/gap/index.html) - An integrated package for genetic data analysis of both population and family data.
-* [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
-* [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - Pretty heatmaps made easy.
+* [Bioconductor <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.bioconductor.org/) - 用于分析和理解高通量基因组数据的工具.
+* [genetics](http://cran.r-project.org/web/packages/genetics/index.html) - 处理基因数据的R包.
+* [gap](http://cran.r-project.org/web/packages/gap/index.html) - 一个人口家庭遗传数据分析的综合工具.
+* [ape](http://cran.r-project.org/web/packages/ape/index.html) - 分子系统学和进化分析.
+* [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - 一个使用简单的热图工具.
 * [ddpcr](https://github.com/daattali/ddpcr) - Analysis and visualization of Droplet Digital PCR data.
 
 ## Network Analysis
 *Packages to construct, analyze and visualize network data.*
 
-* [Network Analysis List](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
+* [Network Analysis List](https://github.com/briatte/awesome-network-analysis) - 网络分析相关资源.
 * [igraph <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://igraph.org/r/) - A collection of network analysis tools.
 * [network](https://cran.r-project.org/web/packages/network/index.html) - Basic tools to manipulate relational data in R.
 * [sna](https://cran.r-project.org/web/packages/sna/index.html) - Basic network measures and visualization tools.
 * [netdiffuseR](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
 * [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
 * [ndtv](https://cran.r-project.org/web/packages/ndtv/) - Tools to construct animated visualizations of dynamic network data in various formats.
-* [statnet](http://statnet.org/) - The project behind many R network analysis packages.
-* [ergm](https://cran.r-project.org/web/packages/ergm/index.html) - Exponential random graph models in R.
+* [statnet](http://statnet.org/) - 大量网络数据的分析,仿真和可视化工具.
+* [ergm](https://cran.r-project.org/web/packages/ergm/index.html) - 指数随机图模型.
 * [latentnet](https://cran.r-project.org/web/packages/latentnet/index.html) - Latent position and cluster models for network objects.
 * [tnet](https://cran.r-project.org/web/packages/tnet/index.html) - Network measures for weighted, two-mode and longitudinal networks.
-* [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like [Gephi](https://gephi.org/) or [Sigma](http://sigmajs.org/).
-* [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
+* [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - 从R导出网络对象到[GEXF](http://gexf.net/format/), for manipulation with network software like [Gephi](https://gephi.org/) or [Sigma](http://sigmajs.org/).
+* [visNetwork](https://github.com/datastorm-open/visNetwork) - 使用vis.js类库进行网络可视化.
 
 ## R Development
 *Packages for packages.*
@@ -400,35 +401,35 @@ Angle Regression
 * [R6 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
 * [pryr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/pryr) - Make it easier to understand what's going on in R.
 * [roxygen <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
-* [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
+* [lineprof](https://github.com/hadley/lineprof) - R中在线分析结果可视化.
 * [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 * [import](https://github.com/smbache/import/) - An import mechanism for R.
 * [modules](https://github.com/klmr/modules) - An alternative (Python style) module system for R.
 * [Rocker <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rocker-org) - R configurations for [Docker](https://www.docker.com/).
-* [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins. 
-* [drat](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
+* [RStudio Addins](https://github.com/daattali/rstudio-addins) - RStudio插件列表. 
+* [drat](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on 使用R在GitHub或其他平台创建和使用仓储.
 * [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to [coveralls](https://coveralls.io/) or [codecov](https://codecov.io/).
-* [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforce code style.
-* [staticdocs](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
+* [lintr](https://github.com/jimhester/lintr) - R静态代码分析.
+* [staticdocs](https://github.com/hadley/staticdocs) - 为一个R包生成静态html文档.
 
 ## Logging
 *Packages for Logging*
 
-* [futile.logger](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
-* [log4r](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
-* [logging](https://cran.r-project.org/web/packages/logging/index.html) - A logging package emulating the python logging package.
+* [futile.logger](https://github.com/zatonovo/futile.logger) - R中类似log4j的日志记录包.
+* [log4r](https://github.com/johnmyleswhite/log4r) - R中的log4j接口
+* [logging](https://cran.r-project.org/web/packages/logging/index.html) - 一个在R中实现log4j的日志处理包.
 
 ## Data Packages
 *Handy Data Packages*
 
-* [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
-* [gapminder](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries throught the paste 50 years).
+* [engsoccerdata](https://github.com/jalapic/engsoccerdata) - 英国和欧洲联赛结果数据(1871-2016年).
+* [gapminder](http://github.com/jennybc/gapminder) - 从Gapminder摘录的数据集.
 
 ## Other Tools
 *Handy Tools for R*
 
-* [git2r](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
+* [git2r](https://github.com/ropensci/git2r) - 在R中使用git.
 
 ## Other Interpreters
 *Alternative R engines.*
