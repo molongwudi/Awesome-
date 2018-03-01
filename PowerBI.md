@@ -2,7 +2,34 @@
 
 我们将在这里介绍Power BI相关的资源，包括博客，文章，视频，软件使用，案例等。
 
-# 1.相关文章资源
+* [视频教程](#视频教程)
+  * [免费视频](#免费视频)
+  * [收费视频](#收费视频)
+* [文章](#文章)
+* [公众号](#公众号)
+
+# 视频教程
+## 免费视频
+1.网易云课堂：[小新Power BI课堂 1小时入门篇](http://study.163.com/course/introduction.htm?courseId=1004952006#/courseDetail?tab=1)
+
+2.网易云课堂：[Power Query玩转商业智能高手必备](http://study.163.com/course/introduction.htm?courseId=1003337007#/courseDetail?tab=1)
+
+3.天善智能：[Power-BI免费版培训视频](https://edu.hellobi.com/course/52)
+
+4.天善智能：[快速玩转微软Power BI系列视频教程](https://edu.hellobi.com/course/76)
+
+## 收费视频
+1.网易云课堂：[Power BI 自动化用户运营分析](http://study.163.com/course/introduction/1004308018.htm)
+
+2.网易云课堂：[微软Power BI教程_商业数据可视化](http://study.163.com/course/introduction/1002972008.htm)
+
+3.网易云课堂：[PowerBI入门教程之可视化](http://study.163.com/course/introduction/1003877002.htm)
+
+4.网易云课堂：[Power BI可视化字典](http://study.163.com/course/introduction/1004898001.htm)
+
+5.网易云课堂：[小新Power BI课堂 3小时进阶篇](http://study.163.com/course/introduction/1004994014.htm)
+
+# 文章
 1.微软Power BI官网学习资料：[链接](https://docs.microsoft.com/zh-cn/power-bi/service-get-started)
 
 2.PowerBI大师-马世权：[DAX学习分享：十条经验](https://mp.weixin.qq.com/s/UXVJLEk3kcnKhChLlQyhsA)
@@ -20,7 +47,7 @@
 8.BI佐罗,[DAX查询进阶：驾驶DAX Studio](https://mp.weixin.qq.com/s/nWqrV3OXZKp1T2rCRv8bJw)
 
 
-# 2.Power BI公众号
+# 公众号
 1.PowerBI大师,微信号:PowerBIMaster
 
 2.数据挖掘助手,微信号:DataMiningHelper
