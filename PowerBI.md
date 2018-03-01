@@ -6,7 +6,14 @@
   * [免费视频](#免费视频)
   * [收费视频](#收费视频)
 * [文章](#文章)
+  * [官方资源](#官方资源)
+  * [PowerBI功能](#PowerBI功能)  
+  * [PoweQuery](#PoweQuery)
+  * [DAX](#DAX)
+  * [DAX图表](#DAX图表)
+  * [综合案例](#综合案例)
 * [公众号](#公众号)
+* [知乎专栏](#知乎专栏)
 
 # 视频教程
 ## 免费视频
@@ -30,22 +37,34 @@
 5.网易云课堂：[小新Power BI课堂 3小时进阶篇](http://study.163.com/course/introduction/1004994014.htm)
 
 # 文章
-1.微软Power BI官网学习资料：[链接](https://docs.microsoft.com/zh-cn/power-bi/service-get-started)
+## 官方资源
+1.微软Power BI官网学习资料：[service-get-started](https://docs.microsoft.com/zh-cn/power-bi/service-get-started)
 
-2.PowerBI大师-马世权：[DAX学习分享：十条经验](https://mp.weixin.qq.com/s/UXVJLEk3kcnKhChLlQyhsA)
+## PowerBI功能
 
-3.PowerBI极客-高飞：[认识DAX数据分析语言](https://mp.weixin.qq.com/s/WimTFi_Tt7-EPx-Kc6H4aw)
 
-4.马世权，[PowerBI的M与DAX之争](https://zhuanlan.zhihu.com/p/27416587)
+## PoweQuery
 
-5.董斌辉，[DAX语法规范,思维导图](https://mubu.com/edit/g8ojIiXFB)
 
-6.BI佐罗, [DAX查询入门：DAX Studio介绍](https://mp.weixin.qq.com/s?__biz=MzI1MDA4MzcxMA==&mid=2650781367&idx=1&sn=e8f55f7c9d02355318ec000e9f88dbf0&chksm=f18cb6a6c6fb3fb0235c40289ec8a07c55556941668cba1ff63afa92080c01f13e69d291afbf&scene=21#wechat_redirect)
+## DAX
+1.PowerBI大师-马世权：[DAX学习分享：十条经验](https://mp.weixin.qq.com/s/UXVJLEk3kcnKhChLlQyhsA)
 
-7.BI佐罗,[Power BI DAX 终极调校工](http://mp.weixin.qq.com/s/8HdHljN7Anhipl6akfuUXA)
+2.PowerBI极客-高飞：[认识DAX数据分析语言](https://mp.weixin.qq.com/s/WimTFi_Tt7-EPx-Kc6H4aw)
 
-8.BI佐罗,[DAX查询进阶：驾驶DAX Studio](https://mp.weixin.qq.com/s/nWqrV3OXZKp1T2rCRv8bJw)
+3.马世权，[PowerBI的M与DAX之争](https://zhuanlan.zhihu.com/p/27416587)
 
+4.董斌辉，[DAX语法规范,思维导图](https://mubu.com/edit/g8ojIiXFB)
+
+5.BI佐罗, [DAX查询入门：DAX Studio介绍](https://mp.weixin.qq.com/s?__biz=MzI1MDA4MzcxMA==&mid=2650781367&idx=1&sn=e8f55f7c9d02355318ec000e9f88dbf0&chksm=f18cb6a6c6fb3fb0235c40289ec8a07c55556941668cba1ff63afa92080c01f13e69d291afbf&scene=21#wechat_redirect)
+
+6.BI佐罗,[Power BI DAX 终极调校工](http://mp.weixin.qq.com/s/8HdHljN7Anhipl6akfuUXA)
+
+7.BI佐罗,[DAX查询进阶：驾驶DAX Studio](https://mp.weixin.qq.com/s/nWqrV3OXZKp1T2rCRv8bJw)
+
+## DAX图表
+
+
+## 综合案例
 
 # 公众号
 1.PowerBI大师,微信号:PowerBIMaster
@@ -71,5 +90,9 @@
 E-mail: asxinyu@qq.com
 
 QQ:1287 2637 03
+
+QQ 群1(2000人)：564786745
+
+QQ 群2(1000人):553499910(已满)
 
 WebChat:PowerDataWorld
