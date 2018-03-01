@@ -58,7 +58,14 @@
 
 5.Excel120PowerBI,微信号:excel120
 
-# 3.联系我
+# 知乎专栏
+1.Power BI 专栏，[https://zhuanlan.zhihu.com/PowerBI](https://zhuanlan.zhihu.com/PowerBI)
+
+2.PowerBI大师，[https://zhuanlan.zhihu.com/powerbimaster](https://zhuanlan.zhihu.com/powerbimaster)
+
+3.PowerBI社区，[https://zhuanlan.zhihu.com/PowerBi365](https://zhuanlan.zhihu.com/PowerBi365)
+
+# 联系我
 如果您有好的建议,可以和我联系：
 
 E-mail: asxinyu@qq.com
