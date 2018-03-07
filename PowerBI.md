@@ -10,7 +10,7 @@
   * [PowerBI功能](#PowerBI功能)  
   * [PoweQuery](#PoweQuery)
   * [DAX](#DAX)
-  * [DAX图表](#DAX图表)
+  * [图表可视化](#图表可视化)
   * [综合案例](#综合案例)
 * [公众号](#公众号)
 * [知乎专栏](#知乎专栏)
@@ -61,7 +61,7 @@
 
 7.BI佐罗,[DAX查询进阶：驾驶DAX Studio](https://mp.weixin.qq.com/s/nWqrV3OXZKp1T2rCRv8bJw)
 
-## DAX图表
+## 图表可视化
 
 
 ## 综合案例
@@ -78,7 +78,7 @@
 5.Excel120PowerBI,微信号:excel120
 
 # 知乎专栏
-1.Power BI 专栏，[https://zhuanlan.zhihu.com/PowerBI](https://zhuanlan.zhihu.com/PowerBI)
+1.Power BI专栏，[https://zhuanlan.zhihu.com/PowerBI](https://zhuanlan.zhihu.com/PowerBI)
 
 2.PowerBI大师，[https://zhuanlan.zhihu.com/powerbimaster](https://zhuanlan.zhihu.com/powerbimaster)
 
