@@ -127,8 +127,8 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
 * [AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders) - Enable feature folders for MVC controllers and views in ASP.NET Core.
 * [Angular Visual Studio Webpack Starter](https://github.com/damienbod/AngularWebpackVisualStudio) - Template for Webpack, Visual Studio, ASP.NET Core and Angular. Both the client and the server side of the application are implemented inside one ASP.NET Core project which makes it easier to deploy.
-* [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript Services.
-* [kendo-ui-core](https://github.com/telerik/kendo-ui-core) - An HTML5, jQuery-based widget library for building modern web apps. [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui).
+* [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) - ASP.NET Core JavaScript服务.
+* [kendo-ui-core](https://github.com/telerik/kendo-ui-core) - 一个基于jQuery的HTML5插件,用于构建现代化的web应用程序.. [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui).
 * [QuickApp](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
 * [Scaffolder](https://github.com/dncuug/scaffolder) - Lets you create extensible data-driven Web applications by automatically generated UI for each table in the database and  lets create a applications for viewing and editing data based on the schema of the data. 
 * [Serenity](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
@@ -136,7 +136,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 
 ### 身份验证和授权
 * [AspNet.Security.OpenIdConnect.Server](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
-* [Auth0](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
+* [Auth0](https://github.com/auth0/auth0.net) - 一个企业级的身份验证和授权平台.
 * [Identity](https://github.com/aspnet/Identity) - ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data.
 * [IdentityServer](https://github.com/IdentityServer/IdentityServer4) - IdentityServer for ASP.NET Core 1.0 & 2.0
   * [IdentityServer4.EntityFramework](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer
@@ -152,7 +152,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [Nethereum](https://github.com/Nethereum) - Bringing the love of Ethereum to .NET.
 
 ### Bot
-* [NadekoBot](https://github.com/Kwoth/NadekoBot) - 一个C#编写的开源通用的聊天机器人。
+* [NadekoBot](https://github.com/Kwoth/NadekoBot) - 一个C#编写的通用的开源聊天机器人.
 
 ### 自动构建
 * [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system. [http://cakebuild.net](http://cakebuild.net).
@@ -160,10 +160,10 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [dotnet-docker](https://github.com/dotnet/dotnet-docker) - The base Docker images for working with .NET Core and the .NET Core Tools.
 * [go-dotnet](https://github.com/matiasinsaurralde/go-dotnet) - Go wrapper for the .NET Core Runtime.
 * [msbuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
-* [vsts-agent](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
+* [vsts-agent](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services构建和发布引擎. Build and Release Agent.
 
 ### Bundling and Minification
-* [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier) - Visual Studio extension that let's you configure bundling and minification of JS, CSS and HTML files.
+* [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier) - 一个Visual Studio扩展,可以用于绑定配置和压缩js,css和html文件.
 * [JavaScriptViewEngine](https://github.com/pauldotknopf/JavaScriptViewEngine) - ASP.NET MVC ViewEngine for rendering markup in a JavaScript environment. Ideal for React and Angular server-side rendering.
 * [Smidge](https://github.com/Shazwazza/Smidge/) - Lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.NET Core.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
@@ -175,19 +175,19 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - High performance general purpose redis client for .NET languages (C# etc).
 
 ### 内容管理系统
-* [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET applications to provide common blogging functionality.
+* [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) - 一个提供常规博客功能的ASP.NET应用程序.
 * [Lynicon](https://github.com/jamesej/lyniconanc) - O/S ASP.Net Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
-* [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
-* [NetCoreCMS](https://github.com/OnnoRokomSoftware/NetCoreCMS) - An Open source ASP.NET Core 2.0 CMS. It currently supports MySQL and planned to implement MSSQL, SQLite and PostgreSQL. Also it is a modular CMS supports theme, skin, custom layout, widgets, multiple language (En, BN).
-* [Platformus](https://github.com/Platformus) - Free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
-* [SimpleContent](https://github.com/joeaudette/cloudscribe.SimpleContent) - Simple, yet flexible content and blog engine for ASP.NET Core that can work with or without a database.
-* [Squidex](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
-* [Weapsy](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
+* [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore) - 开放源代码的内容管理系统,基于ASP.NET Core和一个模块化可扩展的应用框架. built with ASP.NET Core on top of a Modular and Extensible Application Framework.
+* [NetCoreCMS](https://github.com/OnnoRokomSoftware/NetCoreCMS) - 一个开源的ASP.NET Core 2.0 CMS. 支持MySQL,计划支持MSSQL, SQLite和PostgreSQL.同时它也是一个模块化的CMD,支持主题，皮肤，自定义布局,插件,多语言. Also it is a modular CMS supports theme, skin, custom layout, widgets, multiple language (En, BN).
+* [Platformus](https://github.com/Platformus) - 免费开放源代码和跨平台的CMS.基于ASP.NET Core 1.0和ExeCor框架的.Free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
+* [SimpleContent](https://github.com/joeaudette/cloudscribe.SimpleContent) -一个基于ASP.NET Core的简单灵活的内容和博客引擎. 
+* [Squidex](https://github.com/Squidex/squidex) - 一个基于MongoDB/CQRS/EventSourcing的CMS系统.
+* [Weapsy](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on 基于DDD和CQRS的开源ASP.NET Core的CMS,支持MSSQL/MySQL/SQLite/PostgreSQL.
 
 ### 代码分析和性能检测
 * [App.Metrics](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://alhardy.github.io/app-metrics-docs/) for me details.
 * [AspNet.Metrics](https://github.com/alhardy/aspnet-metrics) - Capturing CLR, application-level web request metrics. Middleware and extensions using [Metrics.Net](https://github.com/Recognos/Metrics.NET).
-* [Audit.NET](https://github.com/thepirat000/Audit.NET) - Small framework to audit .NET object changes.
+* [Audit.NET](https://github.com/thepirat000/Audit.NET) - 审计.NET对象变化的小框架.Small framework to audit .NET object changes.
 * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 * [Foundatio](https://github.com/exceptionless/Foundatio#metrics) - A common interface with in memory, redis, StatsD, and Metrics.NET implementations.
 * [MiniCover](https://github.com/lucaslorentz/minicover) - .NET Core下非常简洁的代码覆盖检测工具.
@@ -200,7 +200,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [sharpcompress](https://github.com/adamhathcock/sharpcompress) - 支持多种压缩类型和格式的纯C#托管类库.
 
 ### 编译, Transpilers and Languages
-* [roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
+* [roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. 
 * [Sprache](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
 
 ### 密码学
@@ -210,18 +210,18 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 ### 数据库
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
 * [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
-* [LiteDB](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - [http://www.litedb.org](http://www.litedb.org).
-* [NoDb](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
+* [LiteDB](https://github.com/mbdavid/LiteDB) - 一个.NET平台下的NoSQL文档数据库- [http://www.litedb.org](http://www.litedb.org).
+* [NoDb](https://github.com/joeaudette/NoDb) -  .NET Core/ASP.NET平台下的"no database"文件存储系统, 因为不是每一个项目都需要一个数据库. because not every project needs a database.
 * [marten](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications [http://jasperfx.github.io/marten](http://jasperfx.github.io/marten).
-* [yessql](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
+* [yessql](https://github.com/sebastienros/yessql) - 和其他所有关系型数据库兼容的.NET文档数据库. document database working on any RDBMS.
 
 ### 数据库驱动
 * [cassandra-csharp-driver](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
-* [confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client.
-* [couchbase-lite-net](https://github.com/couchbase/couchbase-lite-net) - A lightweight, document-oriented (NoSQL), syncable database engine for .NET.
+* [confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka的 .NET客户端.
+* [couchbase-lite-net](https://github.com/couchbase/couchbase-lite-net) - 一个.NET平台轻量级的可扩展的文档数据库引擎.A lightweight, document-oriented (NoSQL), syncable database engine for .NET.
 * [MongoDB.Driver](https://github.com/mongodb/mongo-csharp-driver) - MongoDB的.NET驱动.
 * MySQL
-  * [mysql-connector-net](https://github.com/mysql/mysql-connector-net/tree/8.0) - Connector/Net is a fully-managed ADO.NET driver for MySQL.
+  * [mysql-connector-net](https://github.com/mysql/mysql-connector-net/tree/8.0) - 一个mysql的纯托管ADO.NET驱动.Connector/Net is a fully-managed ADO.NET driver for MySQL.
   * [MySqlConnector](https://github.com/mysql-net/MySqlConnector) - Async MySQL Connector for .NET and .NET Core.
 * Neo4j
   * [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - Neo4j Bolt的.NET驱动.
@@ -229,16 +229,16 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [npgsql](https://github.com/npgsql/npgsql) - PostgreSQL的.NET驱动. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work. [http://www.npgsql.org](http://www.npgsql.org)
 * [ravendb](https://github.com/ayende/ravendb/tree/v4.0) - Linq enabled document database for .NET.
 * [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver) - C#/.NET RethinkDB driver with 100% ReQL API coverage.
-* [progaudi.tarantool](https://github.com/progaudi/progaudi.tarantool) - .NET client for Tarantool NoSql database.
+* [progaudi.tarantool](https://github.com/progaudi/progaudi.tarantool) -Tarantool NoSql 数据库的.NET客户端.
 
 ### 数据库工具和程序
 * [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
 * [NReco.PivotData](https://www.nuget.org/packages/NReco.PivotData) - In-memory data cube with OLAP operations and PivotTable data model.
 
 ### 日期时间
-* [Exceptionless.DateTimeExtensions](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
+* [Exceptionless.DateTimeExtensions](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - 时间日期范围/间隔的扩展方法.
 * [FluentDateTime](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
-* [nodatime](https://github.com/nodatime/nodatime) - Better date and time API for .NET [http://nodatime.org](http://nodatime.org).
+* [nodatime](https://github.com/nodatime/nodatime) - .NET下更好的日期时间操作API.Better date and time API for .NET [http://nodatime.org](http://nodatime.org).
 
 ### 分布式计算
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
@@ -248,11 +248,11 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs.
 
 ### 异常
-* [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+* [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless的.NET客户端
 
 ### 函数式编程
-* [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
-* [FsCheck](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
+* [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - C#函数式编程的扩展.
+* [FsCheck](https://github.com/fscheck/FsCheck) - .NET下的随机数测试.Random Testing for .NET
 * [Giraffe](https://github.com/dustinmoris/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 * [language-ext](https://github.com/louthy/language-ext) - C# functional language extensions and 'Erlang like' concurrency system.
 * [LaYumba.Functional](https://github.com/la-yumba/functional-csharp-code) - Utility library for programming functionally in C#.
@@ -267,24 +267,24 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 ### 图形
 * [GLFWDotNet](https://github.com/smack0007/GLFWDotNet) - .NET bindings for GLFW.
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - A fluent wrapper around System.Drawing for the processing of image files [http://imageprocessor.org](http://imageprocessor.org). `4.5.x or above`
-* [ImageSharp](https://github.com/JimBobSquarePants/ImageSharp) - Cross-platform library for processing of image files written in C# [http://imageprocessor.org](http://imageprocessor.org).
-* [QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation.
+* [ImageSharp](https://github.com/JimBobSquarePants/ImageSharp) - 一个C#编写的处理图片文件的跨平台组件.[http://imageprocessor.org](http://imageprocessor.org).
+* [QRCoder](https://github.com/codebude/QRCoder) - 一个纯C#编写的开源QR实现.A pure C# Open Source QR Code implementation.
 * [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) - C# bindings for the bgfx graphics library.
-* [Structure.Sketching](https://github.com/JaCraig/Structure.Sketching) - Image processing library for use in .NET applications that supports .NET Core.
+* [Structure.Sketching](https://github.com/JaCraig/Structure.Sketching) - 支持.NET Core的图像处理组件
 * [veldrid](https://github.com/mellinoe/veldrid) - A low-level, hardware-accelerated 3D graphics library for .NET.
 
 ### GUI
-* [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
+* [Avalonia](https://github.com/AvaloniaUI/Avalonia) - 一个支持多平台的.NET UI框架.(以前叫Perspex)A multi-platform .NET UI framework (formerly known as ).
 * [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/) - The Avalonia-based text editor component forked from [AvalonEdit](https://github.com/icsharpcode/AvalonEdit)
 * [WinApi](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ### IDE
 * [Mono](https://github.com/mono/monodevelop) - MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and Mac OS X. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and Mac OS X maintaining a single code base for all platforms.
-* [rider](https://www.jetbrains.com/rider/) - Cross-platform C# IDE based on the IntelliJ platform and ReSharper.
+* [rider](https://www.jetbrains.com/rider/) - 基于IntelliJ平台和ReSharper的跨平台C# IDE.
 * [Omnisharp](http://www.omnisharp.net/) - Family of Open Source projects, each with one goal: To enable a great .NET experience in YOUR editor of choice.
-* [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - SharpDevelop is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
+* [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - SharpDevelop是一个微软.NET平台免费的集成开发环境(IDE),支持C#, VB.NET, Boo, IronPython, IronRuby 和 F# 项目.It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
 * [Visual Studio Code](https://github.com/Microsoft/vscode) - New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
-* [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) - Free editor for individual developers, open source projects, academic research, education, and small professional teams.
+* [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) - 为个人开发者，开源项目,学术研究，教育，小型专业团队准备的免费编辑器.
 
 ### 国际化
 * [Localization](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
@@ -302,23 +302,23 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 ### 日志
 * [common-logging](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET [http://net-commons.github.io/common-logging](http://net-commons.github.io/common-logging).
 * [dnxcore-logging-logstash](https://github.com/jvandevelde/dnxcore-logging-logstash) - Logstash logging extension for .NET Core applications with UDP and Redis transports.
-* [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+* [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless的.NET客户端.
 * [Foundatio](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
 * [LibLog](https://github.com/damianh/LibLog) - Single file for you to either copy/paste or install via nuget, into your library/ framework/ application to provide a logging abstraction.
 * [log4net](https://github.com/apache/logging-log4net) - log4net is a port of the excellent Apache log4j™ framework to the Microsoft® .NET runtime.
-* [NLog](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging.
+* [NLog](https://github.com/NLog/NLog) - 一个高级的.NET, Silverlight和Xamarin平台的日志组件.
 * [Q42.Logging.ApplicationInsights](https://github.com/Q42/Q42.Logging.ApplicationInsights) - Log appender for the build in ASP.NET Core logging to send all logs to Application Insights.
-* [serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
+* [serilog](https://github.com/serilog/serilog) - 一个简单的.NET日志工具.
 
 ### 机器学习和数据科学
-* [Accord](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET.
+* [Accord](https://github.com/accord-net/framework) - .NET平台机器学习,计算机视觉,统计和数值计算科学的类库.
 * [Spreads](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
 
 ### 邮件
 * [MailBody](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
-* [MailKit](https://github.com/jstedfast/MailKit) - Cross-platform .NET library for IMAP, POP3, and SMTP.
+* [MailKit](https://github.com/jstedfast/MailKit) - 一个跨平台的.NET 邮件类库，支持IMAP, POP3和SMTP.
 * [MailMergeLib](https://github.com/axuno/MailMergeLib) - SMTP mail client library which provides comfortable mail merge capabilities for text, inline images and attachments, as well as good throughput and fault tolerance for sending mail messages.
-* [MimeKit](https://github.com/jstedfast/MimeKit) - Cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
+* [MimeKit](https://github.com/jstedfast/MimeKit) - 跨平台 .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net/tree/dotnet-core) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 * [SendGrid Client](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
 * [StrongGrid](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
@@ -343,7 +343,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system.
 * [markdig](https://github.com/lunet-io/markdig) - Fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
 * [NReco.LambdaParser](https://github.com/nreco/lambdaparser) - Parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated.
-* [Ocelot](https://github.com/TomPallister/Ocelot) - API Gateway created using .NET Core.
+* [Ocelot](https://github.com/TomPallister/Ocelot) - 使用.NET Core创建的APT网关.
 * [readline](https://github.com/tsolarin/readline) - Pure C# GNU-Readline like library for .NET/.NET Core.
 * [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) - reCAPTCHA 2.0 for ASP.NET Core.
 * [Relinq](https://github.com/re-motion/Relinq) - With re-linq, it's now easier than ever to create full-featured LINQ providers.
@@ -392,7 +392,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [SqlKata](https://github.com/sqlkata/querybuilder) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
 ### 消息队列
-* [emitter](https://emitter.io/) - Free open source real-time messaging service that connects all devices. This publish-subscribe messaging API is built for speed and security.
+* [emitter](https://emitter.io/) - 一个免费开源的实时详细服务，可以连接所有设备的，它的消息分发订阅API是基于速度和安全性设计的.
 * [EventStore](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript. [https://geteventstore.com](https://geteventstore.com)
 * [Foundatio](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
@@ -403,7 +403,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client [https://www.rabbitmq.com](https://www.rabbitmq.com).
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
 * [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
-* [Restbus](http://restbus.org) - Messaging library for RabbitMq.
+* [Restbus](http://restbus.org) - RabbitMq的消息组件.
 * [Tossit](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ### 任务调度
@@ -411,8 +411,8 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
 * [HangfireIO](https://github.com/HangfireIO/Hangfire) - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
 * [LiquidState](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
-* [quartznet](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
-* [stateless](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
+* [quartznet](https://github.com/quartznet/quartznet/) - Quartz企业级调度器. Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
+* [stateless](https://github.com/dotnet-state-machine/stateless) - 使用C#代码创建状态机的简单组件.
 
 ### SDKs
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.
@@ -425,7 +425,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [Docker.DotNet](https://github.com/Microsoft/Docker.DotNet) - .NET (C#) Client Library for Docker API.
 * [Microphone](https://github.com/rogeralsing/Microphone) - Lightweight framework to run self hosting REST services using Web Api or NancyFx ontop of a Consul or ETCD cluster.
 * [NetTelegramBotApi](https://github.com/justdmitry/NetTelegramBotApi) - C# client library for building Telegram bot [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api).
-* [octokit.net](https://github.com/octokit/octokit.net) - GitHub API client library for .NET.
+* [octokit.net](https://github.com/octokit/octokit.net) - GitHub的.NET API客户端组件..
 * [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 * [PreStorm](https://github.com/jshirota/PreStorm) - Parallel REST Client for ArcGIS Server.
 * [SendGrid-csharp](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.
@@ -433,8 +433,8 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [tweetinvi](https://github.com/linvi/tweetinvi) - Intuitive .NET C# library to access the Twitter REST and STREAM API.
 
 ### 安全
-* [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
-* [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
+* [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - 纯净的HTML避免XSS攻击.
+* [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - 处理JOSE对象的类库.() Library for processing JOSE objects (JWT, JWA, JWS and related).
 * [NWebsec](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET [https://www.nwebsec.com](https://www.nwebsec.com).
 * [roslyn-security-guard](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
 * [OwaspHeaders](https://github.com/GaProgMan/OwaspHeaders.Core) - .NET Core middleware for injecting the Owasp recommended HTTP Headers for increased security.
@@ -450,10 +450,10 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 ### 序列化
 * [bond](https://github.com/Microsoft/bond) - Cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.
 * [Channels](https://github.com/davidfowl/Channels) - Push based .NET Streams.
-* [CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [http://csvhelper.com](http://csvhelper.com).
-* [Edi.Net](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
-* [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer) - Extended Xml Serializer for .NET.
-* [Jil](https://github.com/kevin-montrose/Jil) - Fast .NET JSON (De)Serializer, Built On Sigil.
+* [CsvHelper](https://github.com/JoshClose/CsvHelper) - 读写CSV文件的程序集. [http://csvhelper.com](http://csvhelper.com).
+* [Edi.Net](https://github.com/indice-co/EDI.Net) - EDI 序列化/反序列化. 支持 EDIFact, X12 and TRADACOMS 格式.
+* [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer) - .NET平台,扩展的XML序列化的组件.
+* [Jil](https://github.com/kevin-montrose/Jil) - 基于Sigil的.NET平台快速 JSON 序列化/反序列化的组件.
 * [msgpack-cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET.
 * [protobuf-net](https://github.com/mgravell/protobuf-net/) - Protocol Buffers library for idiomatic .NET.
