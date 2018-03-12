@@ -74,7 +74,7 @@
 * [.NET Core 文档](https://docs.microsoft.com/en-us/dotnet/articles/welcome) -.NET Core, C#, F# 和 Visual Basic的官方技术文档网站, 包括级别概念，入门指南和示例。
 * [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core SDK是一个主要由微软和.NET社区在[GitHub](https://github.com/dotnet/core)维护的开发平台。
 * [.NET 平台标准](https://github.com/dotnet/corefx/blob/master/Documentation/architecture/net-platform-standard.md) - 新的.NET平台版本与旧版本之间的差异。
-* [.NET Standard 2.0介绍](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - The description of what will be going on for .NET Standard 2.0的将要发布的功能描述一级在当前.NET Standard 缺乏的一些功能组件的线路图。
+* [.NET Standard 2.0介绍](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - .NET Standard 2.0将要发布的功能描述.
 
 ## 框架, 程序集, 工具
 
@@ -117,9 +117,9 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [MassTransit](https://github.com/MassTransit/MassTransit) - .NET的分布式应用程序框架. 
 * [Nancy](https://github.com/NancyFx/Nancy) - 一个.NET和Mono平台，简单轻量级的构建基于HTTP的服务框架。
 * [orleans](https://github.com/dotnet/orleans) - 可以构建大规模、高并发、分布式应用程序框架，而不需要学习专业分布式以及并发知识框架。
-* [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# [http://proto.actor](http://proto.actor).
-* [RService.io](https://github.com/Stoom/RService.IO) - ASP.Net Core RESTful microservice framework that focusing on speed and ease of use.
-* [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all [https://servicestack.net](https://servicestack.net).
+* [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) -提供.NET和Go语言实现的actors模型.[http://proto.actor](http://proto.actor).
+* [RService.io](https://github.com/Stoom/RService.IO) - 这种速度和易用性的ASP.Net Core RESTful风格微服务框架.
+* [ServiceStack](https://github.com/ServiceStack/ServiceStack) - 非常成熟,高效的Web服务框架.[https://servicestack.net](https://servicestack.net).
 * [Steeltoe OSS](https://github.com/SteelToeOSS) - .NET常见的微服务模式工具包。
 
 ### 应用模板
@@ -131,7 +131,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [kendo-ui-core](https://github.com/telerik/kendo-ui-core) - 一个基于jQuery的HTML5插件,用于构建现代化的web应用程序.. [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui).
 * [QuickApp](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4模板，带有完整的登陆,用户和权限管理.
 * [Scaffolder](https://github.com/dncuug/scaffolder) - 可以让你创建可扩展性的基于数据驱动的web应用程序,通过给每个表自动生成UI,可以基于数据表结构创建查看和编辑界面.
-* [Serenity](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
+* [Serenity](https://github.com/volkanceylan/Serenity) - Serenity是一个ASP.NET MVC/TypeScript应用平台,旨在基于服务基础架构,简化和缩短以数据为中心的业务应用程序开发与.
 * [Toucan](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
 
 ### 身份验证和授权
@@ -227,45 +227,45 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
   * [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - Neo4j Bolt的.NET驱动.
   * [Neo4jClient](https://github.com/Readify/Neo4jClient/tree/DotNetCore) - Neo4j的.NET客户端.
 * [npgsql](https://github.com/npgsql/npgsql) - PostgreSQL的.NET驱动. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work. [http://www.npgsql.org](http://www.npgsql.org)
-* [ravendb](https://github.com/ayende/ravendb/tree/v4.0) - Linq enabled document database for .NET.
-* [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver) - C#/.NET RethinkDB driver with 100% ReQL API coverage.
+* [ravendb](https://github.com/ayende/ravendb/tree/v4.0) -.NET平台的文档数据库,支持linq.
+* [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver) -  RethinkDB的C#/.NET驱动,100%覆盖ReQL API.
 * [progaudi.tarantool](https://github.com/progaudi/progaudi.tarantool) -Tarantool NoSql 数据库的.NET客户端.
 
 ### 数据库工具和程序
 * [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
-* [NReco.PivotData](https://www.nuget.org/packages/NReco.PivotData) - In-memory data cube with OLAP operations and PivotTable data model.
+* [NReco.PivotData](https://www.nuget.org/packages/NReco.PivotData) - 内存数据立方体,支持OLAP操作和透视表数据模型.
 
 ### 日期时间
 * [Exceptionless.DateTimeExtensions](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - 时间日期范围/间隔的扩展方法.
-* [FluentDateTime](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
-* [nodatime](https://github.com/nodatime/nodatime) - .NET下更好的日期时间操作API.Better date and time API for .NET [http://nodatime.org](http://nodatime.org).
+* [FluentDateTime](https://github.com/FluentDateTime/FluentDateTime) -允许编写更简单流程的DateTime表达式操作.
+* [nodatime](https://github.com/nodatime/nodatime) - .NET下优秀的日期时间操作组件. [http://nodatime.org](http://nodatime.org).
 
 ### 分布式计算
 * [Foundatio](https://github.com/exceptionless/Foundatio) - 可插入基础模块，构建分布式应用程序框架.
 
 ### 电子商务和支付
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - 基于.NET Core的超级简单的电子商务系统.
-* [Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs.
+* [Stripe](https://github.com/ServiceStack/Stripe) -stripe.com REST APIs的.NET客户端.
 
 ### 异常
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless的.NET客户端
 
 ### 函数式编程
 * [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - C#函数式编程的扩展.
-* [FsCheck](https://github.com/fscheck/FsCheck) - .NET下的随机数测试.Random Testing for .NET
+* [FsCheck](https://github.com/fscheck/FsCheck) - .NET下的随机数测试.
 * [Giraffe](https://github.com/dustinmoris/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 * [language-ext](https://github.com/louthy/language-ext) - C# functional language extensions and 'Erlang like' concurrency system.
 * [LaYumba.Functional](https://github.com/la-yumba/functional-csharp-code) - Utility library for programming functionally in C#.
 * [NetMQ.ReactiveExtensions](https://github.com/NetMQ/NetMQ.ReactiveExtensions) - Effortlessly send messages anywhere on the network using Reactive Extensions (RX). Transport protocol is ZeroMQ.
-* [Optional](https://github.com/nlkl/Optional) - A robust option type for C#.
+* [Optional](https://github.com/nlkl/Optional) - C#中一个更健壮的Option类型,是一种替代null值的强类型.
 * [reactive-streams-dotnet](https://github.com/reactive-streams/reactive-streams-dotnet) - [Reactive Streams](http://www.reactive-streams.org/) for .NET.
 * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
-* [Qactive](https://github.com/RxDave/Qactive) - Reactive queryable observable framework. `4.x.x or above`
-* [sodium](https://github.com/SodiumFRP/sodium/tree/master/c%23) - Functional Reactive Programming (FRP) Library. `4.x.x or above`
+* [Qactive](https://github.com/RxDave/Qactive) - Reactive查询观察框架. `4.x.x or above`
+* [sodium](https://github.com/SodiumFRP/sodium/tree/master/c%23) - Functional Reactive Programming (FRP)编程类库. `4.x.x or above`
 
 ### 图形
-* [GLFWDotNet](https://github.com/smack0007/GLFWDotNet) - .NET bindings for GLFW.
+* [GLFWDotNet](https://github.com/smack0007/GLFWDotNet) - GLFW的.NET开发类库.GLFW是一个自由，开源，多平台的图形库.
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - A fluent wrapper around System.Drawing for the processing of image files [http://imageprocessor.org](http://imageprocessor.org). `4.5.x or above`
 * [ImageSharp](https://github.com/JimBobSquarePants/ImageSharp) - 一个C#编写的处理图片文件的跨平台组件.[http://imageprocessor.org](http://imageprocessor.org).
 * [QRCoder](https://github.com/codebude/QRCoder) - 一个纯C#编写的开源QR实现.A pure C# Open Source QR Code implementation.
