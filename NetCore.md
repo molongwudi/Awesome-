@@ -1,6 +1,6 @@
 # Awesome .NET Core 中文版 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/thangchung/awesome-dotnet-core)
 
-> 优秀的[.NET Core](#frameworks-libraries-and-tools)框架，类库，工具，资源和软件的收.
+> 优秀的[.NET Core](#框架, 程序集, 工具)框架，类库，工具，资源和软件.
 
 这些想法来源于[awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
 
@@ -123,14 +123,14 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [Steeltoe OSS](https://github.com/SteelToeOSS) - .NET常见的微服务模式工具包。
 
 ### 应用模板
-* [ASP.NET Core Boilerplate](https://github.com/ASP-NET-Core-Boilerplate/Templates) - A professional ASP.NET MVC template for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.
-* [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
-* [AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders) - Enable feature folders for MVC controllers and views in ASP.NET Core.
-* [Angular Visual Studio Webpack Starter](https://github.com/damienbod/AngularWebpackVisualStudio) - Template for Webpack, Visual Studio, ASP.NET Core and Angular. Both the client and the server side of the application are implemented inside one ASP.NET Core project which makes it easier to deploy.
+* [ASP.NET Core Boilerplate](https://github.com/ASP-NET-Core-Boilerplate/Templates) - 是一个用最佳实践和流行技术开发现代WEB应用程序的新起点，它旨在成为一个通用的WEB应用程序框架和项目模板.
+* [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template) -一个在ASP.NET 5和ASP.NET Core中可以直接使用的项目模板.
+* [AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders) - 可以在ASP.NET Core使用文件夹层次特性来管理试图和控制器.
+* [Angular Visual Studio Webpack Starter](https://github.com/damienbod/AngularWebpackVisualStudio) - Webpack, Visual Studio, ASP.NET Core 和 Angular的模板项目.它可以使得客户端和服务器端应用程序的实现在一个ASP.NET Core工程为中,可以更容易部署。
 * [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) - ASP.NET Core JavaScript服务.
 * [kendo-ui-core](https://github.com/telerik/kendo-ui-core) - 一个基于jQuery的HTML5插件,用于构建现代化的web应用程序.. [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui).
-* [QuickApp](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
-* [Scaffolder](https://github.com/dncuug/scaffolder) - Lets you create extensible data-driven Web applications by automatically generated UI for each table in the database and  lets create a applications for viewing and editing data based on the schema of the data. 
+* [QuickApp](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4模板，带有完整的登陆,用户和权限管理.
+* [Scaffolder](https://github.com/dncuug/scaffolder) - 可以让你创建可扩展性的基于数据驱动的web应用程序,通过给每个表自动生成UI,可以基于数据表结构创建查看和编辑界面.
 * [Serenity](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
 * [Toucan](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
 
@@ -143,9 +143,9 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
   * [IdentityServer4.MongoDB](https://github.com/diogodamiani/IdentityServer4.MongoDB) - MongoDB persistence layer
   * [IdentityServer4.EntityFrameworkCore](https://github.com/2020IP/TwentyTwenty.IdentityServer4.EntityFrameworkCore) - Entity Framework Core persistence layer
   * [IdentityServer4.Templates](https://github.com/IdentityServer/IdentityServer4.Templates) - dotnet cli templates for IdentityServer4.
-* [openiddict](https://github.com/openiddict/openiddict-core) - Easy-to-use OpenID Connect server for ASP.NET Core.
+* [openiddict](https://github.com/openiddict/openiddict-core) -  ASP.NET Core下非常容易使用的OpenID连接服务器.
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.
-* [stuntman](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
+* [stuntman](https://github.com/ritterim/stuntman) - 在开发过程中利用ASP.NET身份验证机制,替代用户的类库.理解为登陆代理人的账号.主要是做测试.
 
 ### 区块链
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - 。NET框架最全面的比特币程序库。
@@ -155,11 +155,11 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [NadekoBot](https://github.com/Kwoth/NadekoBot) - 一个C#编写的通用的开源聊天机器人.
 
 ### 自动构建
-* [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system. [http://cakebuild.net](http://cakebuild.net).
-* [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Style your C# console output! [http://colorfulconsole.com](http://colorfulconsole.com).
+* [cake-build](https://github.com/cake-build/cake) - 跨平台的自动构建系统. [http://cakebuild.net](http://cakebuild.net).
+* [Colorful.Console](https://github.com/tomakita/Colorful.Console) - 一个控制台组件,可以自定义控制台的输出风格. [http://colorfulconsole.com](http://colorfulconsole.com).
 * [dotnet-docker](https://github.com/dotnet/dotnet-docker) - The base Docker images for working with .NET Core and the .NET Core Tools.
-* [go-dotnet](https://github.com/matiasinsaurralde/go-dotnet) - Go wrapper for the .NET Core Runtime.
-* [msbuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
+* [go-dotnet](https://github.com/matiasinsaurralde/go-dotnet) - .NET Core运行时的Go语言包装.Go wrapper
+* [msbuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine是一个构建应用程序的平台.
 * [vsts-agent](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services 构建和发布代理.
 
 ### Bundling and Minification
@@ -171,8 +171,8 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 ### 缓存
 * [CacheManager](https://github.com/MichaCo/CacheManager) - Open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. [http://cachemanager.michaco.net](http://cachemanager.michaco.net)
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
-* [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
-* [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - High performance general purpose redis client for .NET languages (C# etc).
+* [Microsoft Caching](https://github.com/aspnet/Caching) - 内存缓存和分布式缓存组件.
+* [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - 一个开源的.NET平台高性能Redis客户端.
 
 ### 内容管理系统
 * [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) - 一个提供常规博客功能的ASP.NET应用程序.
@@ -287,20 +287,20 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) - 为个人开发者，开源项目,学术研究，教育，小型专业团队准备的免费编辑器.
 
 ### 国际化
-* [Localization](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
+* [Localization](https://github.com/aspnet/Localization) - for ASP.NET Core应用程序本地化的抽象和实现.
 
 ### IOC框架
 * [AutoDI](https://github.com/Keboo/AutoDI) - Super-fast compile-time dependency injection using IL weaving.
 * [Autofac](https://github.com/autofac/Autofac) - Addictive .NET IoC container.
 * [Castle.Windsor](https://github.com/castleproject/Windsor) Castle Windsor is a best of breed, mature Inversion of Control container available for .NET.
-* [DryIoc](https://bitbucket.org/dadhi/dryioc) - Fast, small, full-featured IoC Container for .NET.
+* [DryIoc](https://bitbucket.org/dadhi/dryioc) - .NET平台快速，小巧，功能齐全的Ioc容器组件.
 * [LightInject](https://github.com/seesharper/LightInject) - Ultra lightweight IoC container [http://www.lightinject.net](http://www.lightinject.net).
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Easy, flexible, and fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
 * [Stashbox](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 * [StructureMap](https://github.com/structuremap/structuremap) - Dependency Injection/Inversion of Control tool for .NET.
 
 ### 日志
-* [common-logging](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET [http://net-commons.github.io/common-logging](http://net-commons.github.io/common-logging).
+* [common-logging](https://github.com/net-commons/common-logging) - .NET平台轻便型日志组件抽象.Portable logging abstraction for .NET [http://net-commons.github.io/common-logging](http://net-commons.github.io/common-logging).
 * [dnxcore-logging-logstash](https://github.com/jvandevelde/dnxcore-logging-logstash) - Logstash logging extension for .NET Core applications with UDP and Redis transports.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless的.NET客户端.
 * [Foundatio](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
@@ -347,17 +347,17 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [readline](https://github.com/tsolarin/readline) - Pure C# GNU-Readline like library for .NET/.NET Core.
 * [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) - reCAPTCHA 2.0 for ASP.NET Core.
 * [Relinq](https://github.com/re-motion/Relinq) - With re-linq, it's now easier than ever to create full-featured LINQ providers.
-* [ReverseMarkdown](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
-* [PdfReport.Core](https://github.com/VahidN/PdfReport.Core) - PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries.
+* [ReverseMarkdown](https://github.com/mysticmind/reversemarkdown-net) - Html到Markdown转换器组件.
+* [PdfReport.Core](https://github.com/VahidN/PdfReport.Core) - PdfReport.Core是一个Code First的报表引擎,它基于iTextSharp.LGPLv2.Core 和 EPPlus.Core程序集来创建.
 * [Polly](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner.
 * [Scientist](https://github.com/github/Scientist.net) - .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library.
-* [Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
+* [Scrutor](https://github.com/khellang/Scrutor) -Microsoft.Extensions.DependencyInjection的程序集扫描扩展工具.
 * [SmartFormat.NET](https://github.com/scottrippey/SmartFormat.NET) - string.Format的一个扩展替换程序集.
 * Stocks
   * [Trady](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
 * [System.Linq.Dynamic.Core](https://github.com/StefH/System.Linq.Dynamic.Core) - The .NET Standard (.NET Core) version from the System Linq Dynamic functionality.
 * Validation
-  * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+  * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - .NET平台小型对象验证组件,它使用非常流畅的接口和lambda表达式来创建验证规则.
   * [Valit](https://github.com/valit-stack/Valit) - A dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
 * [warden-stack](https://github.com/warden-stack) - "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch.
 
@@ -370,9 +370,9 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
   * [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Utilities | Bulk Operations | Batch Delete | Batch Update | Query Cache | Query Filter | Query Future | Query Include | Audit.
   * [LINQKit](https://github.com/scottksmith95/LINQKit) - A free set of extensions for LINQ to SQL and Entity Framework power users.
   * [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector.
-* [Dapper](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
+* [Dapper](https://github.com/StackExchange/Dapper) - .NET平台简单的对象映射工具.
   * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
-  * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
+  * [Dommel](https://github.com/henkmollema/Dommel) - Dapper中简单的CRUD操作例子.
   * [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper.
 * [Limebean](https://nick-lucas.github.io/LimeBean/) - Hybrid-ORM, designed to be simple to use and not totally hide SQL, while having all the nice things you expect from an ORM. Inspired by RedBeanPHP.
 * [LINQ to DB (linq2db)](https://linq2db.github.io/) - The fastest LINQ database access library offering a simple, lightweight, fast, and type-safe layer between your POCO objects and your database for more than 10 database engines with full SQL support.
@@ -460,9 +460,9 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [Schema.NET](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers.
 * [TinyCsvParser](https://github.com/bytefish/TinyCsvParser) - Easy to use, easy to extend and high-performance library for CSV parsing with .NET.
-* [Wire](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
+* [Wire](https://github.com/rogeralsing/Wire) - POCO对象的二进制序列化.
 * [YamlDotNet](https://github.com/aaubry/YamlDotNet) - .NET
-* [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) - Fast binary (de)serializer for .NET.
+* [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) - .NET平台快速二进制序列化/反序列化组件.
 * [YAXLib](https://github.com/sinairv/YAXLib) - XML Serialization Library for the .NET Framework and .NET Core. Extremely flexible and powerful.
 
 ### 测试
@@ -472,19 +472,18 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - Set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 * [moq.netcore](https://github.com/Moq/moq4) - Most popular and friendly mocking framework for .NET.
 * [MSpec](https://github.com/machine/machine.specifications) - Popular testing framework for writing BDD-style tests.
-* [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing
-  framework for ASP.NET Core MVC.
-* [Netling](https://github.com/hallatore/Netling) - Load tester client for easy web testing.
+* [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - ASP.NET Core MVC测试框架.
+* [Netling](https://github.com/hallatore/Netling) - 负载测试客户机,web测试中简单易用的负载测试.
 * [NSpec](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
 * [NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking frameworks.
 * [nunit](https://github.com/nunit/dotnet-test-nunit) - NUnit test runner for .NET Core.
 * [shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET - the way Asserting *Should* be! [http://shouldly.readthedocs.org/en/latest](http://shouldly.readthedocs.org/en/latest)
 * [SpecFlow](https://github.com/techtalk/SpecFlow/tree/DotNetCore) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 * [Storyteller](https://github.com/storyteller/Storyteller) - Executable Specifications for .NET [http://storyteller.github.io](http://storyteller.github.io).
-* [Stubbery](https://markvincze.github.io/Stubbery/) - A simple library for creating and running Api stubs in .NET.
-* [TestStack.BDDfy](https://github.com/TestStack/TestStack.BDDfy) - The simplest BDD framework EVER!
+* [Stubbery](https://markvincze.github.io/Stubbery/) -.NET平台下创建和运行API stubs的简单组件.
+* [TestStack.BDDfy](https://github.com/TestStack/TestStack.BDDfy) - 简单的BDD(行为驱动开发)框架.
 * [xBehave.net](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. [http://xbehave.github.io](http://xbehave.github.io)
-* [xUnit.net](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework. [https://xunit.github.io/](https://xunit.github.io/)
+* [xUnit.net](https://github.com/xunit/xunit) - .NET框架下免费，开源的单元测试工具,得到了社区的高度关注. [https://xunit.github.io/](https://xunit.github.io/)
 
 ### 工具
 * [CatLight](https://catlight.io) - Status notifier for developers that monitors builds and tasks in the project. Built using .Net Core and Electron.
@@ -493,17 +492,17 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [dotnetfiddle](https://dotnetfiddle.net) - .NET sandbox for developers to quickly try out code and share code snippets.
 * [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI (Command Line) Argument Parser for .Net Core & .Net Framework 4.5+.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
-* [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project [https://www.gitignore.io](https://www.gitignore.io).
-* [GitInfo](https://github.com/kzu/GitInfo) - Git and SemVer Info from MSBuild, C# and VB.
-* [ICanHasDotnetCore](https://github.com/OctopusDeploy/ICanHasDotnetCore) - Scans uploaded packages.config files or GitHub repository and determines whether the nuget packages target .NET Standard [https://icanhasdot.net](https://icanhasdot.net).
-* [json2csharp](http://json2csharp.com) - Generate C# classes from JSON.
-* [letsencrypt-win-simple](https://github.com/Lone-Coder/letsencrypt-win-simple) - A Simple ACME Client for Windows.
-* [NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI.
+* [gitignore.io](https://github.com/joeblau/gitignore.io) - 在项目中创建.gitignore文件工具[https://www.gitignore.io](https://www.gitignore.io).
+* [GitInfo](https://github.com/kzu/GitInfo) - 从MSBuild, C# 和 VB中检索Git和Semver系统信息.
+* [ICanHasDotnetCore](https://github.com/OctopusDeploy/ICanHasDotnetCore) - 扫描上传packages.config文件，GitHub仓库，来匹配nuget包是否支持.NET Standard [https://icanhasdot.net](https://icanhasdot.net).
+* [json2csharp](http://json2csharp.com) -从JSON中生成C#类.
+* [letsencrypt-win-simple](https://github.com/Lone-Coder/letsencrypt-win-simple) - 一个Windows下简单的 ACME 客户端.
+* [NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) -使用GUI界面来创建，更新和部署Nuget包.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
-* [Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System.
-* [ShareX](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. [https://getsharex.com](https://getsharex.com)
-* [X.Web.Sitemap](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
-* [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
+* [Opserver](https://github.com/opserver/Opserver) - Stack Exchange's监控系统.
+* [ShareX](https://github.com/ShareX/ShareX) - 一个免费开源程序,允许您捕获或记录屏幕的任意区域,并一键分享.它允许上传图像、文本或其他类型的文件，也支持80多个源地址可以选择.[https://getsharex.com](https://getsharex.com)
+* [X.Web.Sitemap](https://github.com/dncuug/X.Web.Sitemap) – 一个.NET平台下，支持.NET Core的简单网站地图生成器.
+* [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) – 一个.NET平台下，支持.NET Core的Rss Feed生成器.
 
 ### Web框架
 * [Blazor](https://github.com/SteveSanderson/Blazor) - 在浏览器中通过WebAssembly运行.NET的 UI 框架.
@@ -521,7 +520,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [Topshelf](https://github.com/Topshelf/Topshelf) - Easy service hosting framework for building Windows services using .NET. `4.5.x or above`
 
 ### 工作流
-* [CoreWF](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
+* [CoreWF](https://github.com/dmetzgar/corewf/) - .NET Core中Window工作流部分.
 * [workflow-core](https://github.com/danielgerlag/workflow-core) - .NET Standard平台的轻量级工作流引擎.
 
 ## 初学者工具包
@@ -532,10 +531,10 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [aspnetcore-spa generator](https://github.com/aspnet/JavaScriptServices) - Yeoman generator to build a brand-new ASP.NET Core single page application that uses Angular 2 / React / React With Redux / Knockout / Aurelia on the client.
 * [ASP.Net Core Vue Starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) - Asp.NETCore 2.0 Vue 2 (ES6) SPA Starter kit, contains routing, Vuex, and more!.
 * [bitwarden-core](https://github.com/bitwarden/core) - The core infrastructure backend (API, database, etc) [https://bitwarden.com](https://bitwarden.com).
-* [dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time HTML5/C# .NET web apps.
+* [dotNetify](https://github.com/dsuryd/dotNetify) - 一个简单,轻量级,并且强大的构建实时HTML5/C#.NET web应用的框架.
 * [generator-aspnet](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core.
 * [react-aspnet-boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
-* [saaskit](https://github.com/saaskit/saaskit) - Developer toolkit for building SaaS applications.
+* [saaskit](https://github.com/saaskit/saaskit) - 构建Saas应用程序的开发者工具包.
 
 ## 示例项目
 * [AlbumViewerVNext](https://github.com/RickStrahl/AlbumViewerVNext) - West Wind Album Viewer ASP.NET 5 Sample.
@@ -563,7 +562,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time trading platform demo showcasing reactive programming principles applied across the full application stack.
 * [PhotoGallery](https://github.com/chsakell/aspnet5-angular2-typescript) - Cross-platform Single Page Applications with ASP.NET Core, Angular 2 & TypeScript [http://wp.me/p3mRWu-11L](http://wp.me/p3mRWu-11L).
 * [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) - A daily updated micro samples of ASP.NET Core features and facilities.
-* [JustA.ML](https://github.com/mustakimali/JustA.ML) - A web application that lets you share files/URL/text between your devices written in ASP.NET Core 2.0. Open source, live at [https://justa.ml](https://justa.ml)
+* [JustA.ML](https://github.com/mustakimali/JustA.ML) - 一个可以在你自己的设备之间分享同步文件/URL/Text的web应用,使用ASP.NET Core 2.0编写,开源.[https://justa.ml](https://justa.ml)
 
 ## 文章
 * Basic knowledge
