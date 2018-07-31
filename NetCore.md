@@ -2,7 +2,7 @@
 
 > 优秀的[.NET Core](#框架, 程序集, 工具)框架，类库，工具，资源和软件.
 
-这些想法来源于[awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
+这些资源来源于[awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
 
 我们非常欢迎贡献者，也接受专利和商业软件.请先查看 [贡献指南](https://github.com/thangchung/awesome-dotnet-core/blob/master/contributing.md).
 
@@ -109,7 +109,7 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [ASP.NET MVC](https://github.com/aspnet/Mvc) - ASP.NET MVC框架。
 * [CQRSlite](https://github.com/gautema/CQRSlite) - CQRS和Eventsourcing的轻量级辅助框架。
 * [DotNetty](https://github.com/Azure/DotNetty) - netty的.NETk客户端,事件驱动的异步网络应用程序框架。
-* [EmbedIO](https://github.com/unosquare/embedio) - 一个支持.NET和.NET Core的小型跨平台基于模块的Web服务器。
+* [EmbedIO](https://github.com9/unosquare/embedio) - 一个支持.NET和.NET Core的小型跨平台基于模块的Web服务器。
 * [EventFlow](https://github.com/eventflow/EventFlow) - .NET平台的 Async/await CQRS+ES和DDD(邻域驱动设计)开发框架。
 * [ExtCore](https://github.com/ExtCore) - 一个基于ASP.NET Core 1.0平台，免费开源和跨平台的创建模块化和可扩展Web应用程序框架。
 * [Halibut](https://github.com/OctopusDeploy/Halibut) - 一个在SSL上使用json-rpc的安全通讯组件。
@@ -135,13 +135,13 @@ ABP是一个通用的应用程序框架，特别为新的现代web应用程序�
 * [Toucan](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
 
 ### 身份验证和授权
-* [AspNet.Security.OpenIdConnect.Server](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
+* [AspNet.Security.OpenIdConnect.Server](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) -一个支持 OWIN/Katana 和 ASP.NET Core项目的认证授权协议OpenID/OAuth2)服务框架.
 * [Auth0](https://github.com/auth0/auth0.net) - 一个企业级的身份验证和授权平台.
-* [Identity](https://github.com/aspnet/Identity) - ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data.
-* [IdentityServer](https://github.com/IdentityServer/IdentityServer4) - IdentityServer for ASP.NET Core 1.0 & 2.0
-  * [IdentityServer4.EntityFramework](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer
-  * [IdentityServer4.MongoDB](https://github.com/diogodamiani/IdentityServer4.MongoDB) - MongoDB persistence layer
-  * [IdentityServer4.EntityFrameworkCore](https://github.com/2020IP/TwentyTwenty.IdentityServer4.EntityFrameworkCore) - Entity Framework Core persistence layer
+* [Identity](https://github.com/aspnet/Identity) - ASP.NET Core Identity是一套为建立asp.net core web应用程序身份验证体系的框架，包括会员，登陆和用户数据.
+* [IdentityServer](https://github.com/IdentityServer/IdentityServer4) - ASP.NET Core 1.0 和2.0身份认证服务框架。
+  * [IdentityServer4.EntityFramework](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework的持久层.
+  * [IdentityServer4.MongoDB](https://github.com/diogodamiani/IdentityServer4.MongoDB) - MongoDB持久层.
+  * [IdentityServer4.EntityFrameworkCore](https://github.com/2020IP/TwentyTwenty.IdentityServer4.EntityFrameworkCore) - Entity Framework Core 持久层.
   * [IdentityServer4.Templates](https://github.com/IdentityServer/IdentityServer4.Templates) - dotnet cli templates for IdentityServer4.
 * [openiddict](https://github.com/openiddict/openiddict-core) -  ASP.NET Core下非常容易使用的OpenID连接服务器.
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.
