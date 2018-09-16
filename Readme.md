@@ -11,8 +11,3 @@
 
 如果您有好的建议,可以和我联系：
 
-E-mail: asxinyu@qq.com
-
-QQ:1287 2637 03
-
-WebChat:PowerDataWorld
